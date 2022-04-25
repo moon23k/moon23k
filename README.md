@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 | Transformer Ablations | Ablation Studies for Better Performance with Transformer Architecture | Transformer, Parameter Sharing, Scheduler, Tokenizer, Beam Search, fp16, Poly-encoder |
 | Characteristic ChatBot | Train Generative ChatBot Model in a way to learn its own characteristic | ChatBot, Fine Tuning, Transformer, Bert |
 | seqGAN | Train Generative ChatBot Model by using concepts from GAN and techniques from Reinforcement learning | GAN, Reinforcement Learning, Policy Graident |
+| NLP Datasets | Codes to Get and Process Training Datasets for various Datasets | NMT, Dialogue, Summarization, Shell Script, SentencePiece |
 
 
 <br>
