@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 | seqGAN | Train Generative ChatBot Model by using concepts from GAN and techniques from Reinforcement learning | GAN, Reinforcement Learning, Policy Graident |
 | C^2 Bot | Characteristic Chat (C^2) Bot, tries to inject Characteristic to ChatBot Model with seqGAN architecture | Reinforcement Learning, SeqGAN, Text Generation |
 | C^3 Bot | Complicated Characteristic Chat (C^3) Bot, upgraded version of C^2 Bot | Reinforcement Learning, SeqGAN, Text Generation, P^2Bot |
+| KD_Bot | Knowledge Distilled Model from BERT to Transformer | Knowledge Distillation, BERT, Transformer, Text Generation |
 | Light Weight Ablation | Ablation Studies to find concensus between Model Performance and Weight Reduction | Pruning, Weight Sharing, Knowledge Distillation, Quatization |
 | NLP Datasets | Codes to Get and Process Training Datasets for various Datasets | NMT, Dialogue, Summarization, Shell Script, SentencePiece |
 
