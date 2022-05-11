@@ -10,10 +10,12 @@
 ### Projects
 | **Name** | **Desc** | **Key Words** |
 |------|------|--------|
-| [NMT_Basic](https://github.com/moon23k/NMT_Basic) | Implement Basic Model Architectures from scratch and compare performances  | Seq2Seq, Attention Mechanism, Transformer, NMT  |
-| [NMT_BERT](https://github.com/moon23k/NMT_Bert) | Apply Bert based Models to NMT Tasks | BERT, AlBERT, Distil BERT, RoBERTa, NMT |
-| [NMT_KoBERT](https://github.com/moon23k/NMT_KoBERT) | Compare KoBert and Multi-Lingual Bert Models with Korean NMT dataset | KoBERT, BERT_multilingual, NMT  |
-| [Transformer Ablations] | Ablation Studies for Better Performance with Transformer Architecture | Transformer, Parameter Sharing, Scheduler, Tokenizer, Beam Search, quantization, Poly-encoder |
+| [NMT_Basics](https://github.com/moon23k/NMT_Basic) | Basic NMT Model Architectures Implementations from scratch and performance comparisons | Seq2Seq, Attention Mechanism, Transformer, NMT  |
+| [Light Transformer] | Compare Speed and Performance between Vanila Transformer and Light-Weighted Transformer | Transformer, Weight-Sharing, Parameter Factorizing |
+| [NMT_BERTs](https://github.com/moon23k/NMT_Bert) | Apply BERT based Models to NMT Tasks | BERT, AlBERT, XLNet, RoBERTa, NMT |
+| [NMT_KoBERT](https://github.com/moon23k/NMT_KoBERT) | Compare KoBERT and Multi-Lingual Bert Models with Korean NMT dataset | KoBERT, BERT_multilingual, NMT |
+| [SumNMT] | Summarize Long English Text into Shorter Sequence, and Translate it to Korean | BERT, Text Summarization, NMT |
+| Chat_Basics |  |  |
 | [C1_Bot] | Implement Generative ChatBot Architecture with Transformer and BERT | ChatBot, Transformer, BERT, Single-Turn |
 | [seqGAN](https://github.com/moon23k/seqGAN) | Train Generative ChatBot Model by using concepts from GAN and techniques from Reinforcement learning | GAN, Reinforcement Learning, Policy Graident |
 | [C2 Bot] | Characteristic Chat (C^2) Bot, tries to inject Characteristic to ChatBot Model with seqGAN architecture | Reinforcement Learning, SeqGAN, Text Generation |
@@ -21,6 +23,12 @@
 | [Light Weight Ablation] | Ablation Studies to find concensus between Model Performance and Weight Reduction | Pruning, Weight Sharing, Knowledge Distillation, Quatization |
 | [NLP Datasets](https://github.com/moon23k/NLP_datasets) | Codes to Get and Process Training Datasets for various Datasets | NMT, Dialogue, Summarization, Shell Script, SentencePiece |
 
+<br>
+
+### TBD
+| **Name** | **Desc** | **Key Words** |
+|------|------|--------|
+| [Transformer Ablations] | Ablation Studies for Better Performance with Transformer Architecture | Transformer, Parameter Sharing, Scheduler, Tokenizer, Beam Search, quantization, Poly-encoder |
 
 <br>
 
