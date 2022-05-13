@@ -15,7 +15,7 @@
 | [NMT_BERTs](https://github.com/moon23k/NMT_Bert) | Apply BERT based Models to NMT Tasks | BERT, AlBERT, XLNet, RoBERTa, NMT |
 | [NMT_KoBERT](https://github.com/moon23k/NMT_KoBERT) | Compare KoBERT and Multi-Lingual Bert Models with Korean NMT dataset | KoBERT, BERT_multilingual, NMT |
 | [SumNMT] | Summarize Long English Text into Shorter Sequence, and Translate it to Korean | BERT, Text Summarization, NMT |
-| Chat_Basics |  |  |
+| [Chat_Basics](https://github.com/moon23k/Chat_Basics) | ChatBot Implementations from scratch with basic models | Seq2Seq, Attention Mechanism, Transformer, ChatBot, Single-Turn Dialogue Genreration |
 | [C1_Bot] | Implement Generative ChatBot Architecture with Transformer and BERT | ChatBot, Transformer, BERT, Single-Turn |
 | [seqGAN](https://github.com/moon23k/seqGAN) | Train Generative ChatBot Model by using concepts from GAN and techniques from Reinforcement learning | GAN, Reinforcement Learning, Policy Graident |
 | [C2 Bot] | Characteristic Chat (C^2) Bot, tries to inject Characteristic to ChatBot Model with seqGAN architecture | Reinforcement Learning, SeqGAN, Text Generation |
