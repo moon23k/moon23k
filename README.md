@@ -20,7 +20,7 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
 | [Light Transformer](https://github.com/moon23k/Light_Transformer) | Compare Performance and Speed between Vanila Transformer and Light-Weighted Transformer | Transformer, Weight-Sharing, Parameter Factorizing, Model Lightening |
 | [NLG_BERT](https://github.com/moon23k/NMT_Bert) | Apply Pre-trained BERT Model to NLG Tasks | BERT, NMT, Dialogue Genreration |
 | [NLG_KoBERT](https://github.com/moon23k/NMT_KoBERT) | Compare KoBERT and Multi-Lingual Bert Models on Korean NLG datasets | KoBERT, BERT_multilingual, NMT, Dialogue Genreration |
-| [NLG_BERTs](https://github.com/moon23k/NMT_Bert) | Apply BERT based Pre-trained Models to NLG Tasks | BERT, AlBERT, XLNet, RoBERTa, NMT, Dialogue Genreration |
+| [NLG_BERTs](https://github.com/moon23k/NMT_Bert) | Apply BERT based Pre-trained Auto Encoding Models to NLG Tasks and compare performance with Basic BERT Model | BERT, AlBERT, XLNet, RoBERTa, ELECTRA, NMT, Dialogue Genreration |
 | [SumNMT](https://github.com/moon23k/SumNMT) | Summarize Long English Text into Shorter Sequences, and then Translate them to Korean | BERT, Text Summarization, NMT |
 | [NLG_GAN](https://github.com/moon23k/seqGAN) | Train Generative ChatBot Model by using concepts from GAN and techniques from Reinforcement learning | GAN, Reinforcement Learning, Policy Graident |
 | [C2 Bot] | Characteristic Chat Bot(C2 Bot), tries to inject Characteristic to ChatBot Model with seqGAN architecture | Reinforcement Learning, SeqGAN, Text Generation |
