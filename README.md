@@ -16,7 +16,7 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
 ### Projects
 | **Name** | **Desc** | **Key Words** |
 |------|------|--------|
-| [NMG_Basics](https://github.com/moon23k/NMG_Basics) | Implements Basic NLG Model Architectures from scratch and Compares performances | Seq2Seq, Attention Mechanism, Transformer, NMT, Dialogue Genreration |
+| [NLG_Basics](https://github.com/moon23k/NLG_Basics) | Implements Basic NLG Model Architectures from scratch and Compares performances | Seq2Seq, Attention Mechanism, Transformer, NMT, Dialogue Genreration |
 | [Light Transformer](https://github.com/moon23k/Light_Transformer) | Compare Performance and Speed between Vanila Transformer and Light-Weighted Transformer | Transformer, Weight-Sharing, Parameter Factorizing, Model Lightening |
 | [NLG_BERT](https://github.com/moon23k/NMT_Bert) | Apply Pre-trained BERT Model to NLG Tasks | BERT, NMT, Dialogue Genreration |
 | [NLG_KoBERT](https://github.com/moon23k/NMT_KoBERT) | Compare KoBERT and Multi-Lingual Bert Models on Korean NLG datasets | KoBERT, BERT_multilingual, NMT, Dialogue Genreration |
