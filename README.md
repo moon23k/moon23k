@@ -23,8 +23,8 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
 | [NLG_BERTs](https://github.com/moon23k/NMT_Bert) | Apply BERT based Pre-trained Auto Encoding Models to NLG Tasks and compare performance with Basic BERT Model | BERT, AlBERT, XLNet, RoBERTa, ELECTRA, NMT, Dialogue Genreration |
 | [SumNMT](https://github.com/moon23k/SumNMT) | Summarize Long English Text into Shorter Sequences, and then Translate them to Korean | BERT, Text Summarization, NMT |
 | [NLG_GAN](https://github.com/moon23k/seqGAN) | Train Generative ChatBot Model by using concepts from GAN and techniques from Reinforcement learning | GAN, Reinforcement Learning, Policy Graident |
-| [C2 Bot] | Characteristic Chat Bot(C2 Bot), tries to inject Characteristic to ChatBot Model with seqGAN architecture | Reinforcement Learning, SeqGAN, Text Generation |
-| [C3 Bot] | Consistent Characteristic Chat Bot (C3 Bot), upgraded version of C2 Bot. The model seeks to Consistency on Multi-Turn Dialogue Task. | Reinforcement Learning, SeqGAN, Text Generation, P^2Bot, Multi-Turn Dialogue Generation |
+| [C2 Bot](https://github.com/moon23k/C2_Bot) | Characteristic Chat Bot(C2 Bot), tries to inject Characteristic to ChatBot Model with seqGAN architecture | Reinforcement Learning, SeqGAN, Text Generation |
+| [C3 Bot](https://github.com/moon23k/C3_Bot) | Consistent Characteristic Chat Bot (C3 Bot), upgraded version of C2 Bot. The model seeks to Consistency on Multi-Turn Dialogue Task. | Reinforcement Learning, SeqGAN, Text Generation, P^2Bot, Multi-Turn Dialogue Generation |
 | Distil_Transformer | Knowledge Distilled Transformer, Distilled from BERT and GPT | Knowledge Distillation, Transformer, BERT, GPT |
 | Enhanced_Transformer | Enhance Transformer Model via various Encoding and Decoding Strategies | Transformer, Poly Encoder, Beam Search, Random Sampling Decoding |
 | [NLP Datasets](https://github.com/moon23k/NLP_datasets) | Codes to Get and Process Training Datasets for various NLP Tasks | Neural Machine Translation, Dialogue Generation, Summarization |
