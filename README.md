@@ -1,4 +1,4 @@
-### Hi there 👋
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋
 I'm moon, Machine Learning Engineer
 
 I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summarization and so on.
@@ -29,8 +29,7 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
 
 
 
-### Projects:
-
+### Projects
 <details>	
   <summary><b> Machine Translation </b></summary><br>
   <table>
@@ -44,25 +43,25 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>NMT_Basics</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/Gitwar"><b>NMT_Basics</b></a></td>
         <td>Basic Architectures for machine Translation</td>
         <td>WMT-14(De-En)</td>
         <td>Sequence-to-Sequence, Attention Mechanism, Transformer</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>NMT_BERT</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/TradeByte"><b>NMT_BERT</b></a></td>
         <td>Incorporate BERT into NMT Task</td>
         <td>WMT-14(De-En)</td>
         <td>Sequence-to-Sequence, BERT, Transformer</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>NMT_KoBERT</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>NMT_KoBERT</b></a></td>
         <td>Incorporate KoBERT into NMT Task and compare it with BERT-Multilingual</td>
         <td>Korean-English Translation Dataset(AI Hub)</td>
         <td>Sequence-to-Sequence, BERT, KoBERT, Transformer</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>NMT_GAN</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>NMT_GAN</b></a></td>
         <td>Apply Adversarial Training via RL technique</td>
         <td>WMT-14(De-En)</td>
         <td>Sequence-to-Sequence, BERT, Transformer</td>
@@ -86,25 +85,25 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>Hier_Transformer</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/Gitwar"><b>Hier_Transformer</b></a></td>
         <td>Basic Architectures for machine Translation</td>
         <td>WMT-14(De-En)</td>
         <td>Sequence-to-Sequence, Attention Mechanism, Transformer</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>Hier_BERT</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/TradeByte"><b>Hier_BERT</b></a></td>
         <td>Incorporate BERT into NMT Task</td>
         <td>WMT-14(De-En)</td>
         <td>Sequence-to-Sequence, BERT, Transformer</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>SUM_GAN</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>SUM_GAN</b></a></td>
         <td>Incorporate KoBERT into NMT Task and compare it with BERT-Multilingual</td>
         <td>Korean-English Translation Dataset(AI Hub)</td>
         <td>Sequence-to-Sequence, BERT, KoBERT, Transformer</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>SUM_NMT</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>SUM_NMT</b></a></td>
         <td>Apply Adversarial Training via RL technique</td>
         <td>WMT-14(De-En)</td>
         <td>Sequence-to-Sequence, BERT, Transformer</td>
@@ -128,25 +127,25 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>Chat_Basics</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/Gitwar"><b>Chat_Basics</b></a></td>
         <td>Basic Architectures for machine Translation</td>
         <td>WMT-14(De-En)</td>
         <td>Sequence-to-Sequence, Attention Mechanism, Transformer</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>Chat_BERT</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/TradeByte"><b>Chat_BERT</b></a></td>
         <td>Incorporate BERT into NMT Task</td>
         <td>WMT-14(De-En)</td>
         <td>Sequence-to-Sequence, BERT, Transformer</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>C2_Bot</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>C2_Bot</b></a></td>
         <td>Characteristic Chat (C2) Bot via GAN</td>
         <td>HIMYM Transcripts</td>
         <td>Sequence-to-Sequence, BERT, KoBERT, Transformer</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>C3_Bot</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>C3_Bot</b></a></td>
         <td>Coherent Characteristic Chat (C3) Bot</td>
         <td>WMT-14(De-En)</td>
         <td>Sequence-to-Sequence, BERT, Transformer</td>
@@ -170,7 +169,7 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>Transformer_Ablation</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/Gitwar"><b>Transformer_Ablation</b></a></td>
         <td>Basic Architectures for machine Translation</td>
         <td>WMT-14(De-En)</td>
         <td>Sequence-to-Sequence, Attention Mechanism, Transformer</td>
@@ -182,13 +181,13 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
         <td>Sequence-to-Sequence, BERT, Transformer</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>PipiLine_Ablation</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>PipiLine_Ablation</b></a></td>
         <td>Incorporate KoBERT into NMT Task and compare it with BERT-Multilingual</td>
         <td>WMT-14(De-En)</td>
         <td>Transformer</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>Enc_Dec_Ablation</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>Enc_Dec_Ablation</b></a></td>
         <td>Encoding and Decoding Techniques</td>
         <td>WMT-14(De-En)</td>
         <td>Sequence-to-Sequence, Transformer</td>
@@ -212,19 +211,19 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>Light_Transformer</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/Gitwar"><b>Light_Transformer</b></a></td>
         <td>Basic Architectures for machine Translation</td>
         <td>WMT-14(De-En)</td>
         <td>Sequence-to-Sequence, Attention Mechanism, Transformer</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>Distil_Transformer</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/TradeByte"><b>Distil_Transformer</b></a></td>
         <td>Incorporate BERT into NMT Task</td>
         <td>WMT-14(De-En)</td>
         <td>Sequence-to-Sequence, BERT, Transformer</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>Fast_Transformer</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>Fast_Transformer</b></a></td>
         <td>Incorporate KoBERT into NMT Task and compare it with BERT-Multilingual</td>
         <td>Korean-English Translation Dataset(AI Hub)</td>
         <td>Sequence-to-Sequence, BERT, KoBERT, Transformer</td>
@@ -246,11 +245,11 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>NLP_Datasets</b></a></td>
+        <td><a href="https://github.com/iampavangandhi/Gitwar"><b>NLP_Datasets</b></a></td>
         <td>How to deal with datasets</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>Data_Augmentation</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/TradeByte"><b>Data_Augmentation</b></a></td>
         <td>Inflate Dataset via augmentation</td>
       </tr>
     </tbody>
@@ -259,8 +258,112 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
 </details>
 
 
+<br>
+<br>
+
+### Projects
+<table><tr><td valign="top" width="50%">
+
+### 🔥 Machine Translation
+**[NMT_Basics](https://github.com/moon23k/NLG_Basics)** <br>
+In this repo, three basic models are applied to machine translation tasks.
+
+**[NMT_BERT](https://github.com/moon23k/NLG_Basics)** <br>
+Incorporate Pre-trained BERT model for NMT Task
+
+**[NMT_KoBERT](https://github.com/moon23k/NLG_Basics)** <br>
+Incorporate Pre-trained KoBERT model for Korean-English NMT Task
+
+**[NMT_GAN](https://github.com/moon23k/NLG_Basics)** <br>
+Apply GAN on NMT Task via Policy Gradient
+
+</td><td valign="top" width="50%">
+
+### 🔥 Abstract Summarization
+**[Hier_Transformer](https://github.com/moon23k/NLG_Basics)** <br>
+Apply Hierarchical Transformer to deal with context level text
+
+**[Hier_BERT](https://github.com/moon23k/NLG_Basics)** <br>
+Apply Hierarchical Encoder-Decoder model with pretrained BERT to deal with context level text
+
+**[Sum_GAN](https://github.com/moon23k/NLG_Basics)** <br>
+Upgrade Summarization model via GAN
+
+**[Sum_NMT](https://github.com/moon23k/NLG_Basics)** <br>
+Translate and summarization at once!
+
+</td></tr>
+
+<tr><td valign="top" width="50%">
+
+### 🔥 Chat Bot
+**[Chat_Basics](https://github.com/moon23k/NLG_Basics)** <br>
+Application of 3 basic models on single turn dialogue generation task.
+
+**[Chat_BERT](https://github.com/moon23k/NLG_Basics)** <br>
+Application of pretrained bert model on single turn dialogue generation task.
+
+**[C2_Bot](https://github.com/moon23k/NLG_Basics)** <br>
+Characteristic Chat (C2) Bot. Drive model to learn Character via GAN
+
+**[C3_Bot](https://github.com/moon23k/NLG_Basics)** <br>
+Coherent Characteristic Chat (C3) Bot. Multi-Turn Dialogue Generation via Hierarchical Architecture.
+
+</td><td valign="top" width="50%">
+
+### 🔥 Ablation Studies
+**[Transformer_Ablations](https://github.com/moon23k/NLG_Basics)** <br>
+Transformer based models
+
+**[BERT_Ablations](https://github.com/moon23k/NLG_Basics)** <br>
+BERT based models. Albert, Roberta, Distil_Bert ...
+
+**[PipeLine_Ablations](https://github.com/moon23k/NLG_Basics)** <br>
+Pytorch Lightning and Hugging Face Trainer
+
+**[Enc_Dec_Ablations](https://github.com/moon23k/NLG_Basics)** <br>
+Apply various Encoding and Decoding Strategies on Transformer Architecture
+
+</td></tr>
+
+<tr><td valign="top" width="50%">
+
+### 🔥 Model Lightening
+**[NMT_Basics](https://github.com/moon23k/NLG_Basics)** <br>
+Recap for NMT_Basics...
+
+**[NMT_BERT](https://github.com/moon23k/NLG_Basics)** <br>
+Recap for NMT_BERT...
+
+**[NMT_Basics](https://github.com/moon23k/NLG_Basics)** <br>
+Recap for NMT_Basics...
+
+**[NMT_BERT](https://github.com/moon23k/NLG_Basics)** <br>
+Recap for NMT_BERT...
+
+</td><td valign="top" width="50%">
+
+### 🔥 Dataset
+**[NMT_Basics](https://github.com/moon23k/NLG_Basics)** <br>
+Recap for NMT_Basics...
+
+**[NMT_BERT](https://github.com/moon23k/NLG_Basics)** <br>
+Recap for NMT_BERT...
+
+**[NMT_Basics](https://github.com/moon23k/NLG_Basics)** <br>
+Recap for NMT_Basics...
+
+**[NMT_BERT](https://github.com/moon23k/NLG_Basics)** <br>
+Recap for NMT_BERT...
+
+</td></tr>
+
+</table>
+
 
 <br>
+<br>
+
 
 ### Github Stats  
 <table><tr><td valign="top" width="50%">
