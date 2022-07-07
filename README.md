@@ -3,13 +3,8 @@ I'm moon, Machine Learning Engineer
 
 I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summarization and so on.
 
-<br>
-
-### Skill Sets
-
-
-
-<br>
+</br>
+</br>
 
 
 
@@ -30,6 +25,239 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
 | [NLP Datasets](https://github.com/moon23k/NLP_datasets) | Codes to Get and Process Training Datasets for various NLP Tasks | Neural Machine Translation, Dialogue Generation, Summarization |
 
 <br>
+
+
+
+
+### Projects:
+
+<details>	
+  <summary><b> Machine Translation </b></summary><br>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Repo</b></td>
+        <td><b>🌟 Desc</b></td>
+        <td><b>🍴 Dataset</b></td>
+        <td><b>🐛 Architecture</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>NMT_Basics</b></a></td>
+        <td>Basic Architectures for machine Translation</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, Attention Mechanism, Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>NMT_BERT</b></a></td>
+        <td>Incorporate BERT into NMT Task</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, BERT, Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>NMT_KoBERT</b></a></td>
+        <td>Incorporate KoBERT into NMT Task and compare it with BERT-Multilingual</td>
+        <td>Korean-English Translation Dataset(AI Hub)</td>
+        <td>Sequence-to-Sequence, BERT, KoBERT, Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>NMT_GAN</b></a></td>
+        <td>Apply Adversarial Training via RL technique</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, BERT, Transformer</td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+
+
+<details>	
+  <summary><b> Abstractive Text Summarization </b></summary><br>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Repo</b></td>
+        <td><b>🌟 Desc</b></td>
+        <td><b>🍴 Dataset</b></td>
+        <td><b>🐛 Architecture</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>Hier_Transformer</b></a></td>
+        <td>Basic Architectures for machine Translation</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, Attention Mechanism, Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>Hier_BERT</b></a></td>
+        <td>Incorporate BERT into NMT Task</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, BERT, Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>SUM_GAN</b></a></td>
+        <td>Incorporate KoBERT into NMT Task and compare it with BERT-Multilingual</td>
+        <td>Korean-English Translation Dataset(AI Hub)</td>
+        <td>Sequence-to-Sequence, BERT, KoBERT, Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>SUM_NMT</b></a></td>
+        <td>Apply Adversarial Training via RL technique</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, BERT, Transformer</td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+
+
+<details>	
+  <summary><b> Dialogue Generation </b></summary><br>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Repo</b></td>
+        <td><b>🌟 Desc</b></td>
+        <td><b>🍴 Dataset</b></td>
+        <td><b>🐛 Architecture</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>Chat_Basics</b></a></td>
+        <td>Basic Architectures for machine Translation</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, Attention Mechanism, Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>Chat_BERT</b></a></td>
+        <td>Incorporate BERT into NMT Task</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, BERT, Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>C2_Bot</b></a></td>
+        <td>Characteristic Chat (C2) Bot via GAN</td>
+        <td>HIMYM Transcripts</td>
+        <td>Sequence-to-Sequence, BERT, KoBERT, Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>C3_Bot</b></a></td>
+        <td>Coherent Characteristic Chat (C3) Bot</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, BERT, Transformer</td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+
+
+<details>	
+  <summary><b> Ablation Studies </b></summary><br>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Repo</b></td>
+        <td><b>🌟 Desc</b></td>
+        <td><b>🍴 Dataset</b></td>
+        <td><b>🐛 Architecture</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>Transformer_Ablation</b></a></td>
+        <td>Basic Architectures for machine Translation</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, Attention Mechanism, Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>BERT_Ablation</b></a></td>
+        <td>Incorporate BERT into NMT Task</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, BERT, Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>PipiLine_Ablation</b></a></td>
+        <td>Incorporate KoBERT into NMT Task and compare it with BERT-Multilingual</td>
+        <td>WMT-14(De-En)</td>
+        <td>Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>Enc_Dec_Ablation</b></a></td>
+        <td>Encoding and Decoding Techniques</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, Transformer</td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+
+
+<details>	
+  <summary><b> Model Lightening </b></summary><br>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Repo</b></td>
+        <td><b>🌟 Desc</b></td>
+        <td><b>🍴 Dataset</b></td>
+        <td><b>🐛 Architecture</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>Light_Transformer</b></a></td>
+        <td>Basic Architectures for machine Translation</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, Attention Mechanism, Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>Distil_Transformer</b></a></td>
+        <td>Incorporate BERT into NMT Task</td>
+        <td>WMT-14(De-En)</td>
+        <td>Sequence-to-Sequence, BERT, Transformer</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>Fast_Transformer</b></a></td>
+        <td>Incorporate KoBERT into NMT Task and compare it with BERT-Multilingual</td>
+        <td>Korean-English Translation Dataset(AI Hub)</td>
+        <td>Sequence-to-Sequence, BERT, KoBERT, Transformer</td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+
+
+<details>	
+  <summary><b> Datasets </b></summary><br>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Repo</b></td>
+        <td><b>🌟 Desc</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>NLP_Datasets</b></a></td>
+        <td>How to deal with datasets</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>Data_Augmentation</b></a></td>
+        <td>Inflate Dataset via augmentation</td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+
 
 
 <br>
