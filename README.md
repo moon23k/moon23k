@@ -1,4 +1,6 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋
+---
+
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there
 I'm moon, Machine Learning Engineer
 
 I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summarization and so on.
@@ -7,38 +9,16 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
 </br>
 
 
-
-### Projects
-| **Name** | **Desc** | **Key Words** |
-|------|------|--------|
-| [NLG_Basics](https://github.com/moon23k/NLG_Basics) | Implements Basic NLG Model Architectures from scratch and Compares performances | Seq2Seq, Attention Mechanism, Transformer, NMT, Dialogue Genreration |
-| [Light Transformer](https://github.com/moon23k/Light_Transformer) | Compare Performance and Speed between Vanila Transformer and Light-Weighted Transformer | Transformer, Weight-Sharing, Parameter Factorizing, Model Lightening |
-| [NLG_BERT](https://github.com/moon23k/NLG_BERT) | Apply Pre-trained BERT Model to NLG Tasks | BERT, NMT, Dialogue Genreration |
-| [NLG_KoBERT](https://github.com/moon23k/NMT_KoBERT) | Compare KoBERT and Multi-Lingual Bert Models on Korean NLG datasets | KoBERT, BERT_multilingual, NMT, Dialogue Genreration |
-| [NLG_BERTs](https://github.com/moon23k/NMT_Bert) | Apply BERT based Pre-trained Auto Encoding Models to NLG Tasks and compare performance with Basic BERT Model | BERT, AlBERT, XLNet, RoBERTa, ELECTRA, NMT, Dialogue Genreration |
-| [SumNMT](https://github.com/moon23k/SumNMT) | Summarize Long English Text into Shorter Sequences, and then Translate them to Korean | BERT, Text Summarization, NMT |
-| [NLG_GAN](https://github.com/moon23k/seqGAN) | Train Generative ChatBot Model by using concepts from GAN and techniques from Reinforcement learning | GAN, Reinforcement Learning, Policy Graident |
-| [C2 Bot](https://github.com/moon23k/C2_Bot) | Characteristic Chat Bot(C2 Bot), tries to inject Characteristic to ChatBot Model with seqGAN architecture | Reinforcement Learning, SeqGAN, Text Generation |
-| [C3 Bot](https://github.com/moon23k/C3_Bot) | Consistent Characteristic Chat Bot (C3 Bot), upgraded version of C2 Bot. The model seeks to Consistency on Multi-Turn Dialogue Task. | Reinforcement Learning, SeqGAN, Text Generation, P^2Bot, Multi-Turn Dialogue Generation |
-| Distil_Transformer | Knowledge Distilled Transformer, Distilled from BERT and GPT | Knowledge Distillation, Transformer, BERT, GPT |
-| Enhanced_Transformer | Enhance Transformer Model via various Encoding and Decoding Strategies | Transformer, Poly Encoder, Beam Search, Random Sampling Decoding |
-| [NLP Datasets](https://github.com/moon23k/NLP_datasets) | Codes to Get and Process Training Datasets for various NLP Tasks | Neural Machine Translation, Dialogue Generation, Summarization |
-
-<br>
-
-
-
-
 ## Projects
 <details>	
-  <summary><b> Machine Translation </b></summary><br>
+  <summary><b> ⭕ Machine Translation </b></summary><br>
   <table>
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Repo</b></td>
-        <td><b>🌟 Desc</b></td>
-        <td><b>🍴 Dataset</b></td>
-        <td><b>🐛 Architecture</b></td>
+        <td><b>💡 Desc</b></td>
+        <td><b>💾 Dataset</b></td>
+        <td><b>⚙️ Architecture</b></td>
       </tr>
     </thead>
     <tbody>
@@ -73,14 +53,14 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
 
 
 <details>	
-  <summary><b> Abstractive Text Summarization </b></summary><br>
+  <summary><b> ⭕ Abstractive Text Summarization </b></summary><br>
   <table>
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Repo</b></td>
-        <td><b>🌟 Desc</b></td>
-        <td><b>🍴 Dataset</b></td>
-        <td><b>🐛 Architecture</b></td>
+        <td><b>💡 Desc</b></td>
+        <td><b>💾 Dataset</b></td>
+        <td><b>⚙️ Architecture</b></td>
       </tr>
     </thead>
     <tbody>
@@ -115,14 +95,14 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
 
 
 <details>	
-  <summary><b> Dialogue Generation </b></summary><br>
+  <summary><b> ⭕ Dialogue Generation </b></summary><br>
   <table>
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Repo</b></td>
-        <td><b>🌟 Desc</b></td>
-        <td><b>🍴 Dataset</b></td>
-        <td><b>🐛 Architecture</b></td>
+        <td><b>💡 Desc</b></td>
+        <td><b>💾 Dataset</b></td>
+        <td><b>⚙️ Architecture</b></td>
       </tr>
     </thead>
     <tbody>
@@ -157,14 +137,14 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
 
 
 <details>	
-  <summary><b> Ablation Studies </b></summary><br>
+  <summary><b> ⭕ Ablation Studies </b></summary><br>
   <table>
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Repo</b></td>
-        <td><b>🌟 Desc</b></td>
-        <td><b>🍴 Dataset</b></td>
-        <td><b>🐛 Architecture</b></td>
+        <td><b>💡 Desc</b></td>
+        <td><b>💾 Dataset</b></td>
+        <td><b>⚙️ Architecture</b></td>
       </tr>
     </thead>
     <tbody>
@@ -199,20 +179,20 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
 
 
 <details>	
-  <summary><b> Model Lightening </b></summary><br>
+  <summary><b> ⭕ Model Lightening </b></summary><br>
 
 | **Name** | **Desc** | **Key Words** |
 |------|------|--------|
-| [NLG_Basics](https://github.com/moon23k/NLG_Basics) | Implements Basic NLG Model Architectures from scratch and Compares performances | Seq2Seq, Attention Mechanism, Transformer, NMT, Dialogue Genreration |
-| [Light Transformer](https://github.com/moon23k/Light_Transformer) | Compare Performance and Speed between Vanila Transformer and Light-Weighted Transformer | Transformer, Weight-Sharing, Parameter Factorizing, Model Lightening |
-| [NLG_BERT](https://github.com/moon23k/NLG_BERT) | Apply Pre-trained BERT Model to NLG Tasks | BERT, NMT, Dialogue Genreration |
-| [NLG_KoBERT](https://github.com/moon23k/NMT_KoBERT) | Compare KoBERT and Multi-Lingual Bert Models on Korean NLG datasets | KoBERT, BERT_multilingual, NMT, Dialogue Genreration |
+| **[NLG_Basics](https://github.com/moon23k/NLG_Basics)** | Implements Basic NLG Model Architectures from scratch and Compares performances | Seq2Seq, Attention Mechanism, Transformer, NMT, Dialogue Genreration |
+| **[Light Transformer](https://github.com/moon23k/Light_Transformer)** | Compare Performance and Speed between Vanila Transformer and Light-Weighted Transformer | Transformer, Weight-Sharing, Parameter Factorizing, Model Lightening |
+| **[NLG_BERT](https://github.com/moon23k/NLG_BERT)** | Apply Pre-trained BERT Model to NLG Tasks | BERT, NMT, Dialogue Genreration |
+| **[NLG_KoBERT](https://github.com/moon23k/NMT_KoBERT)** | Compare KoBERT and Multi-Lingual Bert Models on Korean NLG datasets | KoBERT, BERT_multilingual, NMT, Dialogue Genreration |
   <br />
 </details>
 
 
 <details>
-  <summary><b> Datasets </b></summary>
+  <summary><b> ⭕ Datasets </b></summary>
 
 * **[NMT_Basics](https://github.com/moon23k/NLG_Basics)**: Implements Basic NLG Model Architectures from scratch and Compares performances<br>
 
@@ -225,61 +205,6 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
 </details>
 
 
-<br>
-<br>
-
-### Projects
-<table><tr><td valign="top">
-
-### 🔥 Machine Translation
-* **[NMT_Basics](https://github.com/moon23k/NLG_Basics)**<br>
-* **[NMT_BERT](https://github.com/moon23k/NLG_Basics)**<br>
-* **[NMT_KoBERT](https://github.com/moon23k/NLG_Basics)**<br>
-* **[NMT_GAN](https://github.com/moon23k/NLG_Basics)**
-</td><td valign="top">
-
-### 🔥 Abstract Summarization
-* **[Hier_Transformer](https://github.com/moon23k/NLG_Basics)**<br>
-* **[Hier_BERT](https://github.com/moon23k/NLG_Basics)**<br>
-* **[Sum_GAN](https://github.com/moon23k/NLG_Basics)**<br>
-* **[Sum_NMT](https://github.com/moon23k/NLG_Basics)**
-</td></tr>
-
-<tr><td valign="top">
-
-### 🔥 Chat Bot
-* **[Chat_Basics](https://github.com/moon23k/NLG_Basics)**<br>
-* **[Chat_BERT](https://github.com/moon23k/NLG_Basics)**<br>
-* **[C2_Bot](https://github.com/moon23k/NLG_Basics)**<br>
-* **[C3_Bot](https://github.com/moon23k/NLG_Basics)**
-</td><td valign="top">
-
-### 🔥 Ablation Studies
-* **[Transformer_Ablations](https://github.com/moon23k/NLG_Basics)**<br>
-* **[BERT_Ablations](https://github.com/moon23k/NLG_Basics)**<br>
-* **[PipeLine_Ablations](https://github.com/moon23k/NLG_Basics)**<br>
-* **[Enc_Dec_Ablations](https://github.com/moon23k/NLG_Basics)**
-</td></tr>
-
-<tr><td valign="top">
-
-### 🔥 Model Lightening
-* **[NMT_Basics](https://github.com/moon23k/NLG_Basics)**<br>
-* **[NMT_BERT](https://github.com/moon23k/NLG_Basics)**<br>
-* **[NMT_Basics](https://github.com/moon23k/NLG_Basics)**<br>
-* **[NMT_BERT](https://github.com/moon23k/NLG_Basics)**
-</td><td valign="top">
-
-### 🔥 Dataset
-* **[NMT_Basics](https://github.com/moon23k/NLG_Basics)**<br>
-* **[NMT_BERT](https://github.com/moon23k/NLG_Basics)**<br>
-* **[NMT_Basics](https://github.com/moon23k/NLG_Basics)**<br>
-* **[NMT_BERT](https://github.com/moon23k/NLG_Basics)**
-</td></tr>
-</table>
-
-<br>
-<br>
 
 
 <br>
