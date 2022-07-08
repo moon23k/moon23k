@@ -1,5 +1,3 @@
----
-
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there
 I'm moon, Machine Learning Engineer
 
@@ -206,18 +204,5 @@ I'm interested in NLP, especially Text Generation Tasks like NMT, ChatBot, Summa
 
 
 
-
 <br>
 <br>
-
-
-### Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=moon23k&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon23k&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
