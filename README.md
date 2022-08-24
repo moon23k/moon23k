@@ -39,10 +39,11 @@
 **Ablation Studies**
 > AI models show different results depending on the architecture and different techniques. Even a small change can make a big difference, so building an ability to control the change is necessary. Of course, this requires a lot of experiments, and below are the experiments.
 
-* <a href="https://github.com/moon23k/Transformer_Ablation">Transformer Ablation Studies</a>
+* <a href="https://github.com/moon23k/Transformer_Ablation">Ablation Studies on Transformer Architectures</a>
 * <a href="https://github.com/moon23k/BERTs_Ablation">Ablation studies on BERT based models</a>
-* <a href="https://github.com/moon23k/Enc_Dec_Ablation">Encoder and Decoder Ablation studies</a>
-* <a href="https://github.com/moon23k/PipeLines">Module PipeLine Ablation studies</a>
+* <a href="https://github.com/moon23k/Enc_Dec_Ablation">Ablation studies on Encoder and Decoder</a>
+* <a href="https://github.com/moon23k/PipeLines">Ablation studies on Module PipeLines</a>
+* <a href="https://github.com/moon23k/Scheduler_Ablation">Ablation Studies on Learning Rate Scheduler</a>
 * <a href="https://github.com/moon23k/Model_Lightenings">Ablation Studies on Model Lightening Methods</a>
 
 
