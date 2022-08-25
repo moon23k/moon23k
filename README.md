@@ -48,12 +48,11 @@
 ## 📄 Ablation Studies
 &nbsp; AI models show different results depending on the architecture and different techniques. Even a small change can make a big difference, so building an ability to control the change is necessary. Of course, this requires a lot of experiments, and below are the experiments.
 
-* <a href="https://github.com/moon23k/Transformer_Ablation">Ablation Studies on **Transformer Architectures**</a>
-* <a href="https://github.com/moon23k/BERTs_Ablation">Ablation studies on **BERT based models**</a>
-* <a href="https://github.com/moon23k/Enc_Dec_Ablation">Ablation studies on **Encoders and Decoders**</a>
-* <a href="https://github.com/moon23k/PipeLines">Ablation studies on **Module PipeLines**</a>
-* <a href="https://github.com/moon23k/Scheduler_Ablation">Ablation Studies on **Learning Rate Schedulers**</a>
-* <a href="https://github.com/moon23k/Model_Lightenings">Ablation Studies on **Model Lightening Methods**</a>
+&nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Transformer_Ablation">Ablation Studies on **Transformer Architectures**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/BERTs_Ablation">Ablation studies on **BERT based models**</a>
+
+&nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Enc_Dec_Ablation">Ablation studies on **Encoders and Decoders**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/PipeLines">Ablation studies on **Module PipeLines**</a>
+
+&nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Scheduler_Ablation">Ablation Studies on **Learning Rate Schedulers**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Model_Lightenings">Ablation Studies on **Model Lightening Methods**</a>
 
 <br>
 
