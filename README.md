@@ -4,7 +4,7 @@
 <br>
 
 ## 👨🏻‍🔬 Experiments
-&nbsp; AI has a lot of variables, which means that different results can be derived depending on the settings of various variables. Therefore, many experiments from various viewpoints are required to obtain good results. Below is a series of experiments that introduce different approaches for three representative NLP tasks and Ablation Studies. 
+&nbsp; AI has a lot of variables, which means that different results can be derived depending on the settings of various variables. Therefore, many experiments from various viewpoints are required to obtain good results. Below is a series of experiments that introduce different approaches for three representative NLP tasks. 
 
 <br>
 
@@ -39,21 +39,21 @@
 ## ⚓ Anchor Codes
 &nbsp; Recently, research on AI has been actively conducted, is currently in progress, and there will be more in the future. Accordingly, many new architectures and techniques are proposed. Therefore, a baseline is needed to objectively evaluate performance while applying a new method to existing tasks. I call this baseline code anchor code, and set the three most basic and frequently used architectures in NLP as anchors. Each is **Sequence-to-Sequence**, **Attention Architecture** and **Transformer**. The anchor codes for each representative task of NLP is as follows.
 
-* <a href="https://github.com/moon23k/NMT_Basics">Neural Machine Translation Anchor Codes</a>
-* <a href="https://github.com/moon23k/SUM_Basics">Abstractive Text Summarization Anchor Codes</a>
-* <a href="https://github.com/moon23k/Chat_Basics">Dialogue Generation Anchor Codes</a>
+* <a href="https://github.com/moon23k/NMT_Basics">Anchor Codes on **Neural Machine Translation**</a>
+* <a href="https://github.com/moon23k/SUM_Basics">Anchor Codes on **Abstractive Text Summarization**</a>
+* <a href="https://github.com/moon23k/Chat_Basics">Anchor Codes on **Dialogue Generation**</a>
 
 <br>
 
 ## 📄 Ablation Studies
 &nbsp; AI models show different results depending on the architecture and different techniques. Even a small change can make a big difference, so building an ability to control the change is necessary. Of course, this requires a lot of experiments, and below are the experiments.
 
-* <a href="https://github.com/moon23k/Transformer_Ablation">Ablation Studies on Transformer Architectures</a>
-* <a href="https://github.com/moon23k/BERTs_Ablation">Ablation studies on BERT based models</a>
-* <a href="https://github.com/moon23k/Enc_Dec_Ablation">Ablation studies on Encoder and Decoder</a>
-* <a href="https://github.com/moon23k/PipeLines">Ablation studies on Module PipeLines</a>
-* <a href="https://github.com/moon23k/Scheduler_Ablation">Ablation Studies on Learning Rate Scheduler</a>
-* <a href="https://github.com/moon23k/Model_Lightenings">Ablation Studies on Model Lightening Methods</a>
+* <a href="https://github.com/moon23k/Transformer_Ablation">Ablation Studies on **Transformer Architectures**</a>
+* <a href="https://github.com/moon23k/BERTs_Ablation">Ablation studies on **BERT based models**</a>
+* <a href="https://github.com/moon23k/Enc_Dec_Ablation">Ablation studies on **Encoders and Decoders**</a>
+* <a href="https://github.com/moon23k/PipeLines">Ablation studies on **Module PipeLines**</a>
+* <a href="https://github.com/moon23k/Scheduler_Ablation">Ablation Studies on **Learning Rate Schedulers**</a>
+* <a href="https://github.com/moon23k/Model_Lightenings">Ablation Studies on **Model Lightening Methods**</a>
 
 <br>
 
