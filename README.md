@@ -36,19 +36,6 @@
 
 <br>
 
-**Ablation Studies**
-> AI models show different results depending on the architecture and different techniques. Even a small change can make a big difference, so building an ability to control the change is necessary. Of course, this requires a lot of experiments, and below are the experiments.
-
-* <a href="https://github.com/moon23k/Transformer_Ablation">Ablation Studies on Transformer Architectures</a>
-* <a href="https://github.com/moon23k/BERTs_Ablation">Ablation studies on BERT based models</a>
-* <a href="https://github.com/moon23k/Enc_Dec_Ablation">Ablation studies on Encoder and Decoder</a>
-* <a href="https://github.com/moon23k/PipeLines">Ablation studies on Module PipeLines</a>
-* <a href="https://github.com/moon23k/Scheduler_Ablation">Ablation Studies on Learning Rate Scheduler</a>
-* <a href="https://github.com/moon23k/Model_Lightenings">Ablation Studies on Model Lightening Methods</a>
-
-
-<br>
-
 ## ⚓ Anchor Codes
 &nbsp; Recently, research on AI has been actively conducted, is currently in progress, and there will be more in the future. Accordingly, many new architectures and techniques are proposed. Therefore, a baseline is needed to objectively evaluate performance while applying a new method to existing tasks. I call this baseline code anchor code, and set the three most basic and frequently used architectures in NLP as anchors. Each is **Sequence-to-Sequence**, **Attention Architecture** and **Transformer**. The anchor codes for each representative task of NLP is as follows.
 
@@ -58,6 +45,17 @@
 
 <br>
 
+## 📄 Ablation Studies
+&nbsp; AI models show different results depending on the architecture and different techniques. Even a small change can make a big difference, so building an ability to control the change is necessary. Of course, this requires a lot of experiments, and below are the experiments.
+
+* <a href="https://github.com/moon23k/Transformer_Ablation">Ablation Studies on Transformer Architectures</a>
+* <a href="https://github.com/moon23k/BERTs_Ablation">Ablation studies on BERT based models</a>
+* <a href="https://github.com/moon23k/Enc_Dec_Ablation">Ablation studies on Encoder and Decoder</a>
+* <a href="https://github.com/moon23k/PipeLines">Ablation studies on Module PipeLines</a>
+* <a href="https://github.com/moon23k/Scheduler_Ablation">Ablation Studies on Learning Rate Scheduler</a>
+* <a href="https://github.com/moon23k/Model_Lightenings">Ablation Studies on Model Lightening Methods</a>
+
+<br>
 
 ## 💾 Data
 &nbsp; AI model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. In addition to simply importing and processing data, I conduct data-related research such as tokenizer and data augmentation.
