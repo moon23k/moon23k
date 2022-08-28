@@ -20,7 +20,7 @@
 
 
 * <a href="https://github.com/moon23k/Hier_Basics">Will the hierarchical structure help model to properly understand long sentences?</a>
-* <a href="https://github.com/moon23k/Recurrent_Transformer">How helpful is the recurrent structure on Transformer for dealing with long sentences?</a>
+* <a href="https://github.com/moon23k/Recursive_Transformer">How helpful is the recurrent structure on Transformer for dealing with long sentences?</a>
 * <a href="https://github.com/moon23k/Hier_BERT">How helpful can a large-scale pre-training model and hierarchical structure be to improve performance?</a>
 * <a href="https://github.com/moon23k/SUM_GAN">How can application of GAN through reinforcement learning technique improve Summarization Task?</a>
 * <a href="https://github.com/moon23k/SUM_NMT">Implementation of a model that handles the two tasks of translation and summarization at once</a>
