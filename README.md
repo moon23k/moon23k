@@ -4,11 +4,13 @@
 <br>
 
 ## 👨🏻‍🔬 Experiments
-&nbsp; AI has a lot of variables, which means that different results can be derived depending on the settings of various variables. Therefore, many experiments from various viewpoints are required to obtain good results. Below is a series of experiments that introduce different approaches for three representative NLP tasks. 
+&nbsp; AI has a lot of variables, which means that different results can be derived depending on the settings of various variables. Therefore, many experiments from various viewpoints are required to obtain good results. Below is a series of experiments that introduce different approaches on three representative NLP tasks. Each is **Neural Machine Translation**, **Abstractive Text Summarization** and **Dialogue Generation**.
 
 <br>
 
 **Neural Machine Translation**
+> Machine translation is the process of converting Source Text into Target Text using a computer. Source Text and Target Text are in different languages. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
+
 * <a href="https://github.com/moon23k/NMT_BERT">How much performance will be improved if a large-scale pre-training model is applied to a NMT Task?</a>
 * <a href="https://github.com/moon23k/NMT_KoBERT">Compare BERT-base, BERT-MultiLingual and KoBERT models on Korean-English NMT Task</a>
 * <a href="https://github.com/moon23k/NMT_GAN">How can application of GAN through Reinforcement Learning technique improve translation quality?</a>
@@ -57,7 +59,7 @@
 <br>
 
 ## 💾 Data
-&nbsp; AI model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. In addition to simply importing and processing data, I conduct data-related research such as tokenizer and data augmentation.
+&nbsp; AI model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation .
 
 * <a href="https://github.com/moon23k/NLP_datasets">Download and Process</a>
 * <a href="https://github.com/moon23k/Tokenzier_Ablations">Tokenizer Ablations</a>
