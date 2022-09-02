@@ -42,7 +42,7 @@
 &nbsp; Recently, research on AI has been actively conducted, is currently in progress, and there will be more in the future. Accordingly, many new architectures and techniques are proposed. Therefore, a baseline is needed to objectively evaluate performance while applying a new method to existing tasks. I call this baseline code anchor code, and set the three most basic and frequently used architectures in NLP as anchors. Each is **Sequence-to-Sequence**, **Attention Architecture** and **Transformer**. The anchor codes for each representative task of NLP is as follows.
 
 * <a href="https://github.com/moon23k/NMT_Basics">Anchor Codes on **Neural Machine Translation**</a>
-* <a href="https://github.com/moon23k/SUM_Basics">Anchor Codes on **Abstractive Text Summarization**</a>
+* <a href="https://github.com/moon23k/Sum_Basics">Anchor Codes on **Abstractive Text Summarization**</a>
 * <a href="https://github.com/moon23k/Chat_Basics">Anchor Codes on **Dialogue Generation**</a>
 
 <br>
