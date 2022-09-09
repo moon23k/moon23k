@@ -20,8 +20,6 @@
 **Abstract Text Summarization**
 > Text Summarization summarizes long text into short sentences through Neural Networks, and the task has Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-
-* <a href="https://github.com/moon23k/Hier_Basics">Will the hierarchical structure help model to properly understand long sentences?</a>
 * <a href="https://github.com/moon23k/Recursive_Transformer">How helpful is the recurrent structure on Transformer for dealing with long sentences?</a>
 * <a href="https://github.com/moon23k/Hier_BERT">How helpful can a large-scale pre-training model and hierarchical structure be to improve performance?</a>
 * <a href="https://github.com/moon23k/SUM_GAN">How can application of GAN through reinforcement learning technique improve Summarization Task?</a>
@@ -44,6 +42,7 @@
 * <a href="https://github.com/moon23k/NMT_Basics">Anchor Codes on **Neural Machine Translation**</a>
 * <a href="https://github.com/moon23k/Sum_Basics">Anchor Codes on **Abstractive Text Summarization**</a>
 * <a href="https://github.com/moon23k/Chat_Basics">Anchor Codes on **Dialogue Generation**</a>
+* <a href="https://github.com/moon23k/Hier_Basics">Anchor Codes on **Hierarchical Structure**</a>
 
 <br>
 
@@ -52,9 +51,9 @@
 
 &nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Transformer_Ablation">Ablation Studies on **Transformer Architectures**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/BERTs_Ablation">Ablation studies on **BERT based models**</a>
 
-&nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Enc_Dec_Ablation">Ablation studies on **Encoders and Decoders**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/PipeLines">Ablation studies on **Module PipeLines**</a>
+&nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/EncDec_Ablation">Ablation studies on **Encoders and Decoders**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Pipeline_Ablation">Ablation studies on **Module PipeLines**</a>
 
-&nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Scheduler_Ablation">Ablation Studies on **Learning Rate Schedulers**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Model_Lightenings">Ablation Studies on **Model Lightening Methods**</a>
+&nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Scheduler_Ablation">Ablation Studies on **Learning Rate Schedulers**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Lightening_Ablation">Ablation Studies on **Model Lightening Methods**</a>
 
 <br>
 
@@ -62,5 +61,5 @@
 &nbsp; AI model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation .
 
 * <a href="https://github.com/moon23k/NLP_datasets">Download and Process</a>
-* <a href="https://github.com/moon23k/Tokenzier_Ablations">Tokenizer Ablations</a>
+* <a href="https://github.com/moon23k/Tokenzier_Ablation">Tokenizer Ablation Studies</a>
 * <a href="https://github.com/moon23k/Data_Augmentation">Data Augmentation</a>
