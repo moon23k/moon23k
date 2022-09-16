@@ -42,7 +42,6 @@
 * <a href="https://github.com/moon23k/NMT_Basics">Anchor Codes on **Neural Machine Translation**</a>
 * <a href="https://github.com/moon23k/Sum_Basics">Anchor Codes on **Abstractive Text Summarization**</a>
 * <a href="https://github.com/moon23k/Chat_Basics">Anchor Codes on **Dialogue Generation**</a>
-* <a href="https://github.com/moon23k/Hier_Basics">Anchor Codes on **Hierarchical Structure**</a>
 
 <br>
 
