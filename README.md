@@ -20,7 +20,6 @@
 **Abstract Text Summarization**
 > Text Summarization summarizes long text into short sentences through Neural Networks, and the task has Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-* <a href="https://github.com/moon23k/Recursive_Transformer">How helpful is the recurrent structure on Transformer for dealing with long sentences?</a>
 * <a href="https://github.com/moon23k/Hier_BERT">How helpful can a large-scale pre-training model and hierarchical structure be to improve performance?</a>
 * <a href="https://github.com/moon23k/SUM_GAN">How can application of GAN through reinforcement learning technique improve Summarization Task?</a>
 * <a href="https://github.com/moon23k/SUM_NMT">Implementation of a model that handles the two tasks of translation and summarization at once</a>
