@@ -51,8 +51,6 @@
 
 &nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Lightening_Ablation">Ablation Studies on **Model Lightening Methods**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Pipeline_Ablation">Ablation studies on **Module PipeLines**</a> 
 
-&nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Scheduler_Ablation">Ablation Studies on **Learning Rate Schedulers**</a> 
-
 <br>
 
 ## 💾 Data
