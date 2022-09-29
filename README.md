@@ -22,7 +22,7 @@
 
 * <a href="https://github.com/moon23k/Hier_BERT">How helpful can a large-scale pre-training model and hierarchical structure be to improve performance?</a>
 * <a href="https://github.com/moon23k/SUM_GAN">How can application of GAN through reinforcement learning technique improve Summarization Task?</a>
-* <a href="https://github.com/moon23k/SUM_NMT">Implementation of a model that handles the two tasks of translation and summarization at once</a>
+* <a href="https://github.com/moon23k/SumNMT">Implementation of a model that handles the two tasks of translation and summarization at once</a>
 
 <br>
 
