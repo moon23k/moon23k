@@ -57,5 +57,5 @@
 &nbsp; AI model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation .
 
 * <a href="https://github.com/moon23k/NLP_datasets">Download and Process</a>
-* <a href="https://github.com/moon23k/Tokenzier_Ablation">Tokenizer Ablation Studies</a>
+* <a href="https://github.com/moon23k/Tokenizer_Ablation">Tokenizer Ablation Studies</a>
 * <a href="https://github.com/moon23k/Data_Augmentation">Data Augmentation</a>
