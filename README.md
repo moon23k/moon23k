@@ -11,27 +11,39 @@
 **Neural Machine Translation**
 > Machine translation is the process of converting Source Text into Target Text using a computer. Source Text and Target Text are in different languages. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
 
-&nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via Back Translation</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via SeqGAN</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via Back Translation</a> 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via SeqGAN</a>
 
-&nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via Back Translation & SeqGAN</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via Fusing PLM</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via Back Translation & SeqGAN</a> 
+&emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via Fusing PLM</a>
 
 <br>
 
 **Dialogue Generation**
 > In general, the dialog generation model tends to give general and repetitive answers independent of the flow of the conversation. This is because it is helpful to generate generic and repetitive answers in a way to reduce the loss in the learning process. Below is a set of experiments to address this and generate a more natural answer.
 
-&nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via SeqGAN</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via Dual SeqGAN</a>
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via SeqGAN</a> 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via Dual SeqGAN</a>
 
-&nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Multi-Turn Dialgue Generation via SeqGAN</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via Fusing PLM</a>
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Multi-Turn Dialgue Generation via SeqGAN</a> 
+&emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via Fusing PLM</a>
 
 <br>
 
 **Abstract Summarization**
 > Summarization Task summarizes long text into short sentences through Neural Networks, and the task can be devided into Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-&nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Summarize & Translate at once</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via Fusing PLM in a Hierarchical Structure</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Summarize & Translate at once</a> 
+&emsp; &emsp; &emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via Fusing PLM in a Hierarchical Structure</a>
 
-&nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via SeqGAN</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via Fusing PLM for Long Sequence</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via SeqGAN</a> 
+&emsp; &emsp; &emsp;
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via Fusing PLM for Long Sequence</a>
 
 <br>
 
@@ -39,18 +51,18 @@
 &nbsp; AI research has been actively conducted, is currently in progress, and there will be more and more in the future. As research becomes more diverse, a baseline for objective evaluation is essential. I set four baselines for the NLG Tasks and call them **anchor codes**, each is **LSTM**, **GRU with Attention Mechanism**, **Transformer**, and **T5**. The former three models are the basic Encoder-Decoder Models via LSTM, Attention Mechanism, and Transformer. Those three models acts like minimum performance thresholds for the same network-based architectures. And the last T5 model is pre-trained Encoder-Decoder model, which shows sota performance in many language generation tasks. The T5 model works as maximum performance threshold for various NLG task specific models.
 
 
-• &nbsp; <a href="https://github.com/moon23k/NMT_Basics">Anchor Code for **LSTM Encoder-Decoder**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/Sum_Basics">Anchor Code for **GRU Encoder-Decoder with Attention**</a>
+• &hairsp; <a href="https://github.com/moon23k/NMT_Basics">Anchor Code for **LSTM Encoder-Decoder**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &hairsp; <a href="https://github.com/moon23k/Sum_Basics">Anchor Code for **GRU Encoder-Decoder with Attention**</a>
 
-• &nbsp; <a href="https://github.com/moon23k/Chat_Basics">Anchor Code for **Trasformer**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/Chat_Basics">Anchor Code for **T5 Fine-Tuning**</a>
+• &hairsp; <a href="https://github.com/moon23k/Chat_Basics">Anchor Code for **Trasformer**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &hairsp; <a href="https://github.com/moon23k/Chat_Basics">Anchor Code for **T5 Fine-Tuning**</a>
 
 <br>
 
 ## 📄 Ablation Studies
 &nbsp; AI models show different results depending on the architecture and different techniques. Even a small change can make a big difference, so building an ability to control the change is necessary. Of course, this requires a lot of experiments, and below are the experiments.
 
-&nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Transformer_Ablation">Ablation Studies on **Transformer Architectures**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/BERTs_Ablation">Ablation studies on **BERT based models**</a>
+&nbsp; &nbsp; • &hairsp; <a href="https://github.com/moon23k/Transformer_Ablation">Ablation Studies on **Transformer Architectures**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &hairsp; <a href="https://github.com/moon23k/BERTs_Ablation">Ablation studies on **BERT based models**</a>
 
-&nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Lightening_Ablation">Ablation Studies on **Model Lightening Methods**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp;<a href="https://github.com/moon23k/Pipeline_Ablation">Ablation studies on **Module PipeLines**</a> 
+&nbsp; &nbsp; • &hairsp; <a href="https://github.com/moon23k/Lightening_Ablation">Ablation Studies on **Model Lightening Methods**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &hairsp; <a href="https://github.com/moon23k/Pipeline_Ablation">Ablation studies on **Module PipeLines**</a> 
 
 <br>
 
