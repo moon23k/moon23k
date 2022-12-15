@@ -4,7 +4,7 @@
 <br>
 
 ## 👨🏻‍🔬 Experiments
-&nbsp; AI has a lot of variables, which means that different results can be derived depending on the settings of various variables. Therefore, many experiments from various viewpoints are required to obtain good results. Below is a series of experiments that introduce different approaches on three representative NLP tasks. Each is **Neural Machine Translation**, **Abstractive Text Summarization** and **Dialogue Generation**.
+&nbsp; AI has a lot of variables, which means that various variable settings can make different results. Therefore, many experiments from various viewpoints are required to obtain good results. Below is a series of experiments that introduce different approaches on three representative NLP tasks. Each is **Neural Machine Translation**, **Abstractive Text Summarization** and **Dialogue Generation**.
 
 <br>
 
@@ -17,15 +17,6 @@
 
 <br>
 
-**Abstract Text Summarization**
-> Text Summarization summarizes long text into short sentences through Neural Networks, and the task has Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
-
-* <a href="https://github.com/moon23k/Hier_BERT">How helpful can a large-scale pre-training model and hierarchical structure be to improve performance?</a>
-* <a href="https://github.com/moon23k/SUM_GAN">How can application of GAN through reinforcement learning technique improve Summarization Task?</a>
-* <a href="https://github.com/moon23k/SumNMT">Implementation of a model that handles the two tasks of translation and summarization at once</a>
-
-<br>
-
 **Dialogue Generation**
 > In general, the dialog generation model tends to give general and repetitive answers independent of the flow of the conversation. This is because it is helpful to generate generic and repetitive answers in a way to reduce the loss in the learning process. Below is a set of experiments to address this and generate a more natural answer.
 
@@ -35,12 +26,23 @@
 
 <br>
 
-## ⚓ Anchor Codes
-&nbsp; Recently, research on AI has been actively conducted, is currently in progress, and there will be more in the future. Accordingly, many new architectures and techniques are proposed. Therefore, a baseline is needed to objectively evaluate performance while applying a new method to existing tasks. I call this baseline code anchor code, and set the three most basic and frequently used architectures in NLP as anchors. Each is **Sequence-to-Sequence**, **Attention Architecture** and **Transformer**. The anchor codes for each representative task of NLP is as follows.
+**Abstract Text Summarization**
+> Text Summarization summarizes long text into short sentences through Neural Networks, and the task has Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-* <a href="https://github.com/moon23k/NMT_Basics">Anchor Codes on **Neural Machine Translation**</a>
-* <a href="https://github.com/moon23k/Sum_Basics">Anchor Codes on **Abstractive Text Summarization**</a>
-* <a href="https://github.com/moon23k/Chat_Basics">Anchor Codes on **Dialogue Generation**</a>
+* <a href="https://github.com/moon23k/Hier_BERT">How helpful can a large-scale pre-training model and hierarchical structure be to improve performance?</a>
+* <a href="https://github.com/moon23k/SUM_GAN">How can application of GAN through reinforcement learning technique improve Summarization Task?</a>
+* <a href="https://github.com/moon23k/SumNMT">Implementation of a model that handles the two tasks of translation and summarization at once</a>
+
+<br>
+
+## ⚓ Anchor Codes
+&nbsp; AI research has been actively conducted, is currently in progress, and there will be more and more in the future. As research becomes more diverse, a baseline for objective evaluation is essential. I set four baselines for the NLG Tasks and call them **anchor codes**, each is **LSTM**, **GRU with Attention Mechanism**, **Transformer**, and **T5**. The former three models are the basic Encoder-Decoder Models via LSTM, Attention Mechanism, and Transformer. Those three models acts like minimum performance thresholds for the same network-based architectures. And the last T5 model is pre-trained Encoder-Decoder model, which shows sota performance in many language generation tasks. The T5 model works as maximum performance threshold for various NLG task specific models.
+
+
+* <a href="https://github.com/moon23k/NMT_Basics">Anchor Code for **LSTM Encoder-Decoder Model**</a>
+* <a href="https://github.com/moon23k/Sum_Basics">Anchor Code for **GRU Encoder-Decoder with Attention Model**</a>
+* <a href="https://github.com/moon23k/Chat_Basics">Anchor Code for **Trasformer Model**</a>
+* <a href="https://github.com/moon23k/Chat_Basics">Anchor Code for **T5 Fine-Tuning Model**</a>
 
 <br>
 
