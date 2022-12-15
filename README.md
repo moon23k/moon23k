@@ -11,27 +11,27 @@
 **Neural Machine Translation**
 > Machine translation is the process of converting Source Text into Target Text using a computer. Source Text and Target Text are in different languages. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
 
-* <a href="https://github.com/moon23k/NMT_BERT">How much performance will be improved if a large-scale pre-trained model is applied to a NMT Task?</a>
-* <a href="https://github.com/moon23k/NMT_KoBERT">Compare BERT-base, BERT-MultiLingual and KoBERT models on Korean-English NMT Task</a>
-* <a href="https://github.com/moon23k/NMT_GAN">How can application of GAN through Reinforcement Learning technique improve translation quality?</a>
+&nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via Back Translation</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via SeqGAN</a>
+
+&nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via Back Translation & SeqGAN</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via Fusing PLM</a>
 
 <br>
 
 **Dialogue Generation**
 > In general, the dialog generation model tends to give general and repetitive answers independent of the flow of the conversation. This is because it is helpful to generate generic and repetitive answers in a way to reduce the loss in the learning process. Below is a set of experiments to address this and generate a more natural answer.
 
-* <a href="https://github.com/moon23k/Chat_BERT">Application BERT on Dialogue Generation Model would help the model to generate more natural utterance?</a>
-* <a href="https://github.com/moon23k/C2_Bot">Can application of GAN throgh Policy Graident Technique be helpful to give Characteristic on Dialogue Generation Model?</a>
-* <a href="https://github.com/moon23k/C3_Bot">Can Hierarchical Model Structure and GAN make Coherent Characteristic Chatbot?</a>
+&nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via SeqGAN</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via Dual SeqGAN</a>
+
+&nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Multi-Turn Dialgue Generation via SeqGAN</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via Fusing PLM</a>
 
 <br>
 
 **Abstract Summarization**
 > Summarization Task summarizes long text into short sentences through Neural Networks, and the task can be devided into Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-* <a href="https://github.com/moon23k/Hier_BERT">How helpful can a large-scale pre-training model and hierarchical structure be to improve performance?</a>
-* <a href="https://github.com/moon23k/SUM_GAN">How can application of GAN through reinforcement learning technique improve Summarization Task?</a>
-* <a href="https://github.com/moon23k/SumNMT">Implementation of a model that handles the two tasks of translation and summarization at once</a>
+&nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Summarize & Translate at once</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via Fusing PLM in a Hierarchical Structure</a>
+
+&nbsp; &nbsp; • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via SeqGAN</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  • &nbsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via Fusing PLM for Long Sequence</a>
 
 <br>
 
