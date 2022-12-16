@@ -11,39 +11,39 @@
 **Neural Machine Translation**
 > Machine translation is the process of converting Source Text into Target Text using a computer. Source Text and Target Text are in different languages. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via Back Translation</a> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via SeqGAN</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via **Back Translation**</a> 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &hairsp;
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via **SeqGAN**</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via Back Translation & SeqGAN</a> 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via **Back Translation & SeqGAN**</a> 
 &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via Fusing PLM</a>
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via **Fusing PLM**</a>
 
 <br>
 
 **Dialogue Generation**
 > In general, the dialog generation model tends to give general and repetitive answers independent of the flow of the conversation. This is because it is helpful to generate generic and repetitive answers in a way to reduce the loss in the learning process. Below is a set of experiments to address this and generate a more natural answer.
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via SeqGAN</a> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 
-• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via Dual SeqGAN</a>
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via **SeqGAN**</a> 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via **Dual SeqGAN**</a>
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Multi-Turn Dialgue Generation via SeqGAN</a> 
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve **Multi-Turn** Dialgue Generation via **SeqGAN**</a> 
 &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via Fusing PLM</a>
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via **Fusing PLM**</a>
 
 <br>
 
 **Abstract Summarization**
 > Summarization Task summarizes long text into short sentences through Neural Networks, and the task can be devided into Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Summarize & Translate at once</a> 
-&emsp; &emsp; &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via Fusing PLM in a Hierarchical Structure</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">**Summarize & Translate At Once**</a> 
+&emsp; &emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via **Fusing PLM in a Hierarchical Structure**</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via SeqGAN</a> 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via **SeqGAN**</a> 
 &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via Fusing PLM for Long Sequence</a>
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via **Fusing PLM for Long Sequence**</a>
 
 <br>
 
@@ -69,6 +69,6 @@
 ## 💾 Data
 &nbsp; AI model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation .
 
-* <a href="https://github.com/moon23k/NLP_datasets">Download and Process</a>
-* <a href="https://github.com/moon23k/Tokenizer_Ablation">Tokenizer Ablation Studies</a>
-* <a href="https://github.com/moon23k/Data_Augmentation">Data Augmentation</a>
+* <a href="https://github.com/moon23k/NLP_datasets">**Download and Process** Datasets</a>
+* <a href="https://github.com/moon23k/Tokenizer_Ablation">**Tokenizer** Ablation Studies</a>
+* <a href="https://github.com/moon23k/Data_Augmentation">**Data Augmentation**</a>
