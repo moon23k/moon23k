@@ -37,8 +37,8 @@
 **Abstract Summarization**
 > Summarization Task summarizes long text into short sentences through Neural Networks, and the task can be devided into Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">**Summarize & Translate At Once**</a> 
-&emsp; &emsp; &emsp; &emsp; 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via **BERT_Sum**</a> 
+&emsp; &emsp;
 • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via **Fusing PLM in a Hierarchical Structure**</a>
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Summarization via **SeqGAN**</a> 
@@ -51,9 +51,9 @@
 &nbsp; AI research has been actively conducted, is currently in progress, and there will be more and more in the future. As research becomes more diverse, a baseline for objective evaluation is essential. I set four baselines for the NLG Tasks and call them **anchor codes**, each is **LSTM**, **GRU with Attention Mechanism**, **Transformer**, and **T5**. The former three models are the basic Encoder-Decoder Models via LSTM, Attention Mechanism, and Transformer. Those three models acts like minimum performance thresholds for the same network-based architectures. And the last T5 model is pre-trained Encoder-Decoder model, which shows sota performance in many language generation tasks. The T5 model works as maximum performance threshold for various NLG task specific models.
 
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_Basics">Anchor Code for **LSTM Encoder-Decoder**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &hairsp; <a href="https://github.com/moon23k/Sum_Basics">Anchor Code for **GRU Encoder-Decoder with Attention**</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/LSTM_Anchors">Anchor Code for **LSTM Encoder-Decoder**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &hairsp; <a href="https://github.com/moon23k/Attention_Anchors">Anchor Code for **GRU Encoder-Decoder with Attention**</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Chat_Basics">Anchor Code for **Trasformer**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &hairsp; <a href="https://github.com/moon23k/Chat_Basics">Anchor Code for **T5 Fine-Tuning**</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Transformer_Anchors">Anchor Code for **Trasformer**</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • &hairsp; <a href="https://github.com/moon23k/T5_Anchors">Anchor Code for **T5 Fine-Tuning**</a>
 
 <br>
 
