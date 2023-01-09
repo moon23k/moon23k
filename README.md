@@ -17,7 +17,7 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via **Back Translation & SeqGAN**</a> 
 &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via **Fusing PLM**</a>
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Translation via **BERT**</a>
 
 <br>
 
@@ -30,7 +30,7 @@
 
 &emsp;  • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve **Multi-Turn** Dialgue Generation via **SeqGAN**</a> 
 &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via **Fusing PLM**</a>
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Improve Dialgue Generation via **BERT**</a>
 
 <br>
 
