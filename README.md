@@ -24,26 +24,26 @@
 **Dialogue Generation**
 > Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below is a set of experiments to generate more natural responses like humans do.
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_SBS">**Step by Step Learning** for Dialgue Generation</a>
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_SBS">**Step-by-Step Learning** for Dialgue Generation</a>
 &emsp; &emsp; &emsp; 
 • &hairsp; <a href="https://github.com/moon23k/Dialog_PLMs">Compare **PLMs** for Dialgue Generation</a>
 
 &emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_GAN">Generate better Dialogue via **SeqGAN**</a> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/Dialog_Multi">Multi-Turn Dialgue Generation Study</a>
+&emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &numsp;
+• &hairsp; <a href="https://github.com/moon23k/Dialog_Multi">**Multi-Turn** Dialgue Generation Study</a>
 
 <br>
 
 **Abstract Summarization**
 > Summarization Task summarizes long text into short sentences through Neural Networks, and the task can be devided into Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_BERT">**BERT_Sum** implementation</a> 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_BERT">**BERT_Sum** Implementation</a> 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp;
-• &hairsp; <a href="https://github.com/moon23k/Sum_Hier">Using PLM on a Hierarchical Structure for Summarization</a>
+• &hairsp; <a href="https://github.com/moon23k/Sum_Hier">**PLM on a Hierarchical Structure** for Summarization</a>
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate better Summary via **SeqGAN**</a> 
 &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/Sum_Long">Long Sequence at once via Efficient Attention Techniques</a>
+• &hairsp; <a href="https://github.com/moon23k/Sum_Long">Summarize **Long Sequence at Once**</a>
 
 <br>
 
@@ -64,19 +64,19 @@
 ## 📄 Ablation Studies
 &nbsp; AI models show different results depending on the architecture and different techniques. Even a small change can make a big difference, so building an ability to control the change is necessary. Of course, this requires a lot of experiments, and below are the experiments.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Transformer_Ablation">Ablation Studies on **Transformer Architectures**</a>
-&emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Attention_Ablation">Ablation studies on **Attention Methodologies**</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Transformer_Arhcs">Ablation Studies on **Transformer Architectures**</a>
+&emsp; &emsp; &emsp; &ensp;
+• &hairsp; <a href="https://github.com/moon23k/PipeLines">Ablation studies on **Module PipeLines**</a> 
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Memory_Ablation">Ablation Studies on **Efficient Memory Use**</a> 
-&emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; 
-• &hairsp; <a href="https://github.com/moon23k/Pipeline_Ablation">Ablation studies on **Module PipeLines**</a> 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Efficient_Training">Ablation Studies on **Efficient Training Strategies**</a> 
+&emsp; &emsp; &emsp;
+• &hairsp; <a href="https://github.com/moon23k/Efficient_Models">Ablation studies on **Efficient Models**</a>
 
 <br>
 
 ## 💾 Data
-&nbsp; AI model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation .
+&nbsp; AI model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation.
 
-* <a href="https://github.com/moon23k/NLP_datasets">**Download and Process** Datasets</a>
-* <a href="https://github.com/moon23k/Tokenizer_Ablation">**Tokenizer** Ablation Studies</a>
+* <a href="https://github.com/moon23k/NLP_Datasets">**Download and Process** Datasets</a>
+* <a href="https://github.com/moon23k/Tokenizations">**Tokenization** Strategies</a>
 * <a href="https://github.com/moon23k/Data_Augmentation">**Data Augmentation**</a>
