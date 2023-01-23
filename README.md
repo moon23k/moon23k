@@ -24,12 +24,12 @@
 **Dialogue Generation**
 > Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below is a set of experiments to generate more natural responses like humans do.
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_ABC">Dialgue Generation to **Avoid Boring Conversations**</a>
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Diverse">Experiments for a **Diverse** Dialgue Generation</a>
 &emsp; &emsp; &emsp; 
 • &hairsp; <a href="https://github.com/moon23k/Dialog_PLMs">Compare **PLMs** for Dialgue Generation</a>
 
 &emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_GAN">Generate better Dialogue via **SeqGAN**</a> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &numsp;
+&emsp; &emsp; &emsp; &emsp; &emsp; &numsp;
 • &hairsp; <a href="https://github.com/moon23k/Dialog_Multi">**Multi-Turn** Dialgue Generation Study</a>
 
 <br>
