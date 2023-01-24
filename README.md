@@ -26,7 +26,7 @@
 
 &emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Diverse">Experiments for a **Diverse** Dialgue Generation</a>
 &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Dialog_PLMs">Compare **PLMs** for Dialgue Generation</a>
+• &hairsp; <a href="https://github.com/moon23k/Dialog_Character">**Characteristic** Dialgue Generation</a>
 
 &emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_GAN">Generate better Dialogue via **SeqGAN**</a> 
 &emsp; &emsp; &emsp; &emsp; &emsp; &numsp;
