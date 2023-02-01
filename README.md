@@ -36,13 +36,14 @@
 **Abstract Summarization**
 > Summarization Task summarizes long text into short sentences through Neural Networks, and the task can be devided into Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_BERT">**BERT_Sum** Implementation</a> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp;
-• &hairsp; <a href="https://github.com/moon23k/Sum_Hier">**PLM on a Hierarchical Structure** for Summarization</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_BERT">How to apply **BERT** on Summarization</a> 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate better Summary via **SeqGAN**</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate better Summary via **SeqGAN**</a> 
-&emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/Sum_Long">Summarize **Long Sequence at Once**</a>
+
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_Hier">**Hierarchical PLM Structure** for a Summarization</a>
+&emsp; &emsp;
+• &hairsp; <a href="https://github.com/moon23k/Sum_Compare">Compare **Hier vs Flat** Architectures on Summarization</a>
 
 <br>
 
