@@ -18,32 +18,33 @@
 &emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_GAN">Generate better Translation via **SeqGAN**</a>
 &emsp; &emsp; &emsp; &emsp;
 • &hairsp; <a href="https://github.com/moon23k/NMT_IntGen">**Integrated Generative Training** for Machine Translation</a> 
+
 <br>
 
 **Dialogue Generation**
 > Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below is a set of experiments to generate more natural responses like humans do.
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Diverse">Experiments for a **Diverse** Dialgue Generation</a>
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_AEB">**Address an Exposure Bias** in Dialogue Generation</a>
 &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Dialog_Character">**Characteristic** Dialgue Generation</a>
-
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_GAN">Generate better Dialogue via **SeqGAN**</a> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &numsp;
 • &hairsp; <a href="https://github.com/moon23k/Dialog_Multi">**Multi-Turn** Dialgue Generation Study</a>
+
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_GAN">**Characteristic** Dialgue Generation via **SeqGAN**</a>
+&emsp; &emsp; &emsp; &emsp; &nbsp;
+• &hairsp; <a href="https://github.com/moon23k/Dialog_KG">Apply **Knowledge Distillation** on Dialogue Generation</a> 
+
 
 <br>
 
 **Abstract Summarization**
 > Summarization Task summarizes long text into short sentences through Neural Networks, and the task can be devided into Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_BERT">How to apply **BERT** on Summarization</a> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate better Summary via **SeqGAN**</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_Revised">Revised **BERT SUM** Implementation</a> 
+&emsp; &emsp; &emsp;
+• &hairsp; <a href="https://github.com/moon23k/Sum_Arcs">Compare **Hier & Flat** Architectures on Summarization</a>
 
-
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_Hier">**Hierarchical PLM Structure** for a Summarization</a>
-&emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/Sum_Compare">Compare **Hier vs Flat** Architectures on Summarization</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_PLMs">How to use **PLM** on summarization</a>
+&emsp; &emsp; &emsp; &nbsp;
+• &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate Better Summaries via SeqGAN</a>
 
 <br>
 
