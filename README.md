@@ -17,21 +17,21 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_GAN">Generate better Translation via **SeqGAN**</a>
 &emsp; &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/NMT_IntGen">**Integrated Generative Training** for Machine Translation</a> 
+• &hairsp; <a href="https://github.com/moon23k/NMT_Natural">**Toward Natural Translation**</a> 
 
 <br>
 
 **Dialogue Generation**
 > Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below is a set of experiments to generate more natural responses like humans do.
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_AEB">**Address an Exposure Bias** in Dialogue Generation</a>
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Diverse">Enhance **Diversity** of Dialogue Generation Model</a>
+&emsp; &emsp; &emsp; &ensp;
+• &hairsp; <a href="https://github.com/moon23k/Dialog_KG">Apply **Knowledge Distillation** on Dialogue Generation</a>
+
+
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_GAN">Teach **Characteristic** on Dialgue Generation Model</a>
 &emsp; &emsp; &emsp; 
 • &hairsp; <a href="https://github.com/moon23k/Dialog_Multi">**Multi-Turn** Dialgue Generation Study</a>
-
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_GAN">**Characteristic** Dialgue Generation via **SeqGAN**</a>
-&emsp; &emsp; &emsp; &emsp; &nbsp;
-• &hairsp; <a href="https://github.com/moon23k/Dialog_KG">Apply **Knowledge Distillation** on Dialogue Generation</a> 
-
 
 <br>
 
