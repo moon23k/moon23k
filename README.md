@@ -24,14 +24,16 @@
 **Dialogue Generation**
 > Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below is a set of experiments to generate more natural responses like humans do.
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Diverse">Enhance **Diversity** of Dialogue Generation Model</a>
-&emsp; &emsp; &emsp; &ensp;
-• &hairsp; <a href="https://github.com/moon23k/Dialog_KG">Apply **Knowledge Distillation** on Dialogue Generation</a>
 
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_KG">**Knowledge Distillation** on Dialogue Generation</a>
+&emsp; &emsp; &emsp;
+• &hairsp; <a href="https://github.com/moon23k/Dialog_Character">**Characteristic** Dialgue Generation Model</a>
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_GAN">Teach **Characteristic** on Dialgue Generation Model</a>
-&emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Dialog_Multi">**Multi-Turn** Dialgue Generation Study</a>
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">Simple Implementation of **SemEnt & DRESS**</a>
+&emsp; &emsp; &emsp; &emsp; &hairsp; 
+• &hairsp; <a href="https://github.com/moon23k/Dialog_FluEnt">Improve Fluency by focusing on the **First Letter in Utterance**</a>
+
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Multi">**Multi-Turn** Dialgue Generation Study</a>
 
 <br>
 
