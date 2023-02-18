@@ -17,7 +17,7 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_GAN">Generate better Translation via **SeqGAN**</a>
 &emsp; &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/NMT_Natural">**Toward Natural Translation**</a> 
+• &hairsp; <a href="https://github.com/moon23k/NMT_NegTrain">Generate better Translation via **Negative Training**</a> 
 
 <br>
 
