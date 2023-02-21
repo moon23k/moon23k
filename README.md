@@ -39,13 +39,13 @@
 **Abstract Summarization**
 > Summarization Task summarizes long text into short sentences through Neural Networks, and the task can be devided into Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_Revised">Revised **BERT SUM** Implementation</a> 
-&emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/Sum_Arcs">Compare **Hier & Flat** Architectures on Summarization</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_ReBERT">Revised **BERT SUM** Implementation</a> 
+&emsp; &emsp; &emsp; &ensp;
+• &hairsp; <a href="https://github.com/moon23k/Sum_HAT">Compare **Hier & Flat** Architectures on Summarization</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_PLMs">How to use **PLM** on summarization</a>
-&emsp; &emsp; &emsp; &nbsp;
-• &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate Better Summaries via **SeqGAN**</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate Better Summaries via **SeqGAN**</a>
+&emsp; &emsp;
+• &hairsp; <a href="https://github.com/moon23k/Sum_NMT">Process Summarization and Translation at once</a>
 
 <br>
 
