@@ -25,7 +25,7 @@
 > Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below is a set of experiments to generate more natural responses like humans do.
 
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_KG">**Knowledge Distillation** on Dialogue Generation</a>
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_KD">**Knowledge Distillation** on Dialogue Generation</a>
 &emsp; &emsp; &emsp;
 • &hairsp; <a href="https://github.com/moon23k/Dialog_Character">**Characteristic** Dialgue Generation Model</a>
 
