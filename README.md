@@ -17,7 +17,7 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_GAN">Generate better Translation via **SeqGAN**</a>
 &emsp; &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/NMT_NegTrain">Generate better Translation via **Negative Training**</a> 
+• &hairsp; <a href="https://github.com/moon23k/NMT_NegTrain">Generate better Translation via **SeqGAN & Negative Training**</a> 
 
 <br>
 
@@ -46,7 +46,7 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_PLMs">How to use **PLM** on summarization</a>
 &emsp; &emsp; &emsp; &nbsp;
-• &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate Better Summaries via SeqGAN</a>
+• &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate Better Summaries via **SeqGAN**</a>
 
 <br>
 
