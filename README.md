@@ -27,7 +27,7 @@
 
 &emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Character">**Characteristic** Dialgue Generation Model</a>
 &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/Dialog_Multi">**Multi-Turn** Dialgue Generation Study</a>
+• &hairsp; <a href="https://github.com/moon23k/Dialog_MultiTurns">**Multi-Turn** Dialgue Generation Study</a>
 
 &emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">Simple Implementation of **SemEnt & DRESS**</a>
 &emsp; &emsp; 
