@@ -12,12 +12,12 @@
 > Machine translation is the task of converting Text from Source Language into Target Language using a computer processing. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">How to utilize **BERT** on Machine Translation</a>
-&emsp; &emsp; &emsp;
+&emsp; &emsp; &emsp; &emsp; &emsp;
 • &hairsp; <a href="https://github.com/moon23k/NMT_Back">Improve Performance via **Back Translation**</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_GAN">Generate better Translation via **SeqGAN**</a>
-&emsp; &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/NMT_NegTrain">Generate better Translation via **SeqGAN & Negative Training**</a> 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_GEN">**Generative Training Study** for Machine Translation</a>
+&emsp; &emsp; &hairsp;
+• &hairsp; <a href="https://github.com/moon23k/NMT_GAN">Generate better Translation via **SeqGAN**</a>
 
 <br>
 
