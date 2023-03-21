@@ -31,7 +31,7 @@
 
 &emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">Simple Implementation of **SemEnt & DRESS**</a>
 &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Dialog_FluEnt">Improve Fluency by focusing on the **First Letter in Utterance**</a>
+• &hairsp; <a href="https://github.com/moon23k/Dialog_FluEnt">**F**irst **l**etter in **u**tterance & **Ent**ropy based Generative Training</a>
 
 
 <br>
@@ -45,12 +45,12 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate Better Summaries via **SeqGAN**</a>
 &emsp; &emsp; &nbsp;
-• &hairsp; <a href="https://github.com/moon23k/Sum_NMT">Process Summarization and Translation at once</a>
+• &hairsp; <a href="https://github.com/moon23k/Sum_SALT">**S**emantic **A**nd **L**ength based Generative **T**raining</a>
 
 <br>
 
 ## ⚓ Anchor Codes
-&nbsp; AI research has been actively conducted, is currently in progress, and there will be more and more in the future. As research becomes more diverse, a baseline for objective evaluation is essential. I set four baselines for the NLG Tasks and call them **anchor codes**, each is **LSTM**, **GRU with Attention Mechanism**, **Transformer**, and **T5**. The former three models are the basic Encoder-Decoder Models via LSTM, Attention Mechanism, and Transformer. Those three models acts like minimum performance thresholds for the same network-based architectures. And the last T5 model is pre-trained Encoder-Decoder model, which shows sota performance in many language generation tasks. The T5 model works as maximum performance threshold for various NLG task specific models.
+&nbsp; AI research has been actively conducted, is currently in progress, and there will be more and more in the future. As research becomes more diverse, a baseline for objective evaluation is essential. I set four baselines for the NLG Tasks and call them **anchor codes**, each is **LSTM**, **GRU with Attention Mechanism**, **Transformer**, and **T5**. The former three models are the basic Encoder-Decoder Models via LSTM, Attention Mechanism, and Transformer. Those three models acts as minimum performance thresholds for the same network-based architectures. And the last T5 model is pre-trained Encoder-Decoder model, which shows great performances in many language generation tasks. The T5 model works as performance threshold for pre-trained models.
 
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/LSTM_Anchors">Anchor Code for **LSTM Encoder-Decoder**</a> 
@@ -77,7 +77,7 @@
 <br>
 
 ## 💾 Data
-&nbsp; AI model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation.
+&nbsp; Deep Learning model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation.
 
 * <a href="https://github.com/moon23k/NLP_Datasets">**Download and Process** Datasets</a>
 * <a href="https://github.com/moon23k/Tokenizations">**Tokenization** Strategies</a>
