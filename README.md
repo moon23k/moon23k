@@ -24,15 +24,13 @@
 **Dialogue Generation**
 > Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below is a set of experiments to generate more natural responses like humans do.
 
-
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Character">**Characteristic** Dialgue Generation Model</a>
-&emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/Dialog_MultiTurns">**Multi-Turn** Dialgue Generation Study</a>
-
 &emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">Simple Implementation of **SemEnt & DRESS**</a>
-&emsp; &emsp; 
+&emsp; &emsp; &hairsp;
 • &hairsp; <a href="https://github.com/moon23k/Dialog_FluEnt">**F**irst **l**etter in **u**tterance & **Ent**ropy based Generative Training</a>
 
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_GAN">Improve Dialgue Generation via **SeqGAN**</a>
+&emsp; &emsp; &emsp; &ensp;
+• &hairsp; <a href="https://github.com/moon23k/Dialog_MultiTurn">**Multi-Turn** Dialgue Generation Study</a>
 
 <br>
 
@@ -44,7 +42,7 @@
 • &hairsp; <a href="https://github.com/moon23k/Sum_HAT">Compare **Hier & Flat** Architectures on Summarization</a>
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate Better Summaries via **SeqGAN**</a>
-&emsp; &emsp; &nbsp;
+&emsp; &emsp; &thinsp;
 • &hairsp; <a href="https://github.com/moon23k/Sum_SALT">**S**emantic **A**nd **L**ength based Generative **T**raining</a>
 
 <br>
