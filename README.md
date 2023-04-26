@@ -12,11 +12,11 @@
 > Machine translation is the task of converting Text from Source Language into Target Language using a computer processing. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">How to utilize **BERT** on Machine Translation</a>
-&emsp; &emsp; &emsp; &emsp; &emsp;
+&emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;
 • &hairsp; <a href="https://github.com/moon23k/NMT_Back">Improve Performance via **Back Translation**</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_GEN">**Generative Training Study** for Machine Translation</a>
-&emsp; &emsp; &hairsp;
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_GEN">**Generative Training Studies** for Machine Translation</a>
+&emsp; &emsp;
 • &hairsp; <a href="https://github.com/moon23k/NMT_GAN">Generate better Translation via **SeqGAN**</a>
 
 <br>
@@ -25,11 +25,11 @@
 > Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below is a set of experiments to generate more natural responses like humans do.
 
 &emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">Simple Implementation of **SemEnt & DRESS**</a>
-&emsp; &emsp; &hairsp;
+&emsp; &emsp; &emsp; &ensp;
 • &hairsp; <a href="https://github.com/moon23k/Dialog_FluEnt">**F**irst **l**etter in **u**tterance & **Ent**ropy based Generative Training</a>
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_GAN">Improve Dialgue Generation via **SeqGAN**</a>
-&emsp; &emsp; &emsp; &ensp;
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Char">**Characteristic Dialgue Generation** via **SeqGAN**</a>
+&emsp; &emsp;
 • &hairsp; <a href="https://github.com/moon23k/Dialog_MultiTurn">**Multi-Turn** Dialgue Generation Study</a>
 
 <br>
