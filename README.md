@@ -30,7 +30,7 @@
 
 &emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Char">**Characteristic Dialgue Generation** via **SeqGAN**</a>
 &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/Dialog_MultiTurn">**Multi-Turn** Dialgue Generation Study</a>
+• &hairsp; <a href="https://github.com/moon23k/Dialog_MulT">**Multi-Turn** Dialgue Generation Study</a>
 
 <br>
 
@@ -39,7 +39,7 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_BERT">How to Utilize **BERT** on Summarization</a> 
 &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/Sum_HAT">Compare **Hier & Flat** Architectures on Summarization</a>
+• &hairsp; <a href="https://github.com/moon23k/Sum_HAT">**Sparse Attention** Study on Summarization</a>
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate Better Summaries via **SeqGAN**</a>
 &emsp; &emsp; &thinsp;
