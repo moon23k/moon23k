@@ -51,12 +51,12 @@
 &nbsp; AI research has been actively conducted, is currently in progress, and there will be more and more in the future. As research becomes more diverse, a baseline for objective evaluation is essential. I set four baselines for the NLG Tasks and call them **anchor codes**, each is **LSTM**, **GRU with Attention Mechanism**, **Transformer**, and **T5**. The former three models are the basic Encoder-Decoder Models via LSTM, Attention Mechanism, and Transformer. Those three models acts as minimum performance thresholds for the same network-based architectures. And the last T5 model is pre-trained Encoder-Decoder model, which shows great performances in many language generation tasks. The T5 model works as performance threshold for pre-trained models.
 
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/LSTM_Anchors">Anchor Code for **LSTM Encoder-Decoder**</a> 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/LSTM_Anchors">Anchor Code for **Sequence to Sequence**</a> 
 &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Attention_Anchors">Anchor Code for **GRU Encoder-Decoder with Attention**</a>
+• &hairsp; <a href="https://github.com/moon23k/Attention_Anchors">Anchor Code for **Sequence to Sequence with Attention**</a>
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Transformer_Anchors">Anchor Code for **Trasformer**</a> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &thinsp;
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; 
 • &hairsp; <a href="https://github.com/moon23k/T5_Anchors">Anchor Code for **T5 Fine-Tuning**</a>
 
 <br>
