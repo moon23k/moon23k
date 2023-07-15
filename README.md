@@ -24,7 +24,7 @@
 **Dialogue Generation**
 > Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below is a set of experiments to generate more natural responses like humans do.
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">Simple Implementation of **SemEnt & DRESS**</a>
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">Simple Implementation of **SimEnt & DRESS**</a>
 &emsp; &emsp; &emsp; &ensp;
 • &hairsp; <a href="https://github.com/moon23k/Dialog_FluEnt">**F**irst **l**etter in **u**tterance & **Ent**ropy based Generative Training</a>
 
@@ -51,13 +51,13 @@
 &nbsp; AI research has been actively conducted, is currently in progress, and there will be more and more in the future. As research becomes more diverse, a baseline for objective evaluation is essential. I set four baselines for the NLG Tasks and call them **anchor codes**, each is **LSTM**, **GRU with Attention Mechanism**, **Transformer**, and **T5**. The former three models are the basic Encoder-Decoder Models via LSTM, Attention Mechanism, and Transformer. Those three models acts as minimum performance thresholds for the same network-based architectures. And the last T5 model is pre-trained Encoder-Decoder model, which shows great performances in many language generation tasks. The T5 model works as performance threshold for pre-trained models.
 
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/LSTM_Anchors">Anchor Code for **Sequence to Sequence**</a> 
-&emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Attention_Anchors">Anchor Code for **Sequence to Sequence with Attention**</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/LSTM_Anchors">Anchor Code for **RNNs**</a> 
+&emsp; &emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Attention_Anchors">Anchor Code for **Attentions**</a>
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Transformer_Anchors">Anchor Code for **Trasformer**</a> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; 
-• &hairsp; <a href="https://github.com/moon23k/T5_Anchors">Anchor Code for **T5 Fine-Tuning**</a>
+&emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/T5_Anchors">Anchor Code for **Pre-trained Models**</a>
 
 <br>
 
