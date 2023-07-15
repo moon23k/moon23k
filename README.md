@@ -77,6 +77,6 @@
 ## 💾 Data
 &nbsp; Deep Learning model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation.
 
-* <a href="https://github.com/moon23k/NLP_Datasets">**Download and Process** Datasets</a>
-* <a href="https://github.com/moon23k/Tokenizations">**Tokenization** Strategies</a>
-* <a href="https://github.com/moon23k/Data_Augmentation">**Data Augmentation**</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NLP_Datasets">**Data Load and Process**</a> &emsp; &emsp; &emsp;
+• &hairsp; <a href="https://github.com/moon23k/Tokenizations">**Data Tokenization**</a> &emsp; &emsp; &emsp;
+• &hairsp; <a href="https://github.com/moon23k/Data_Augmentation">**Data Augmentation**</a>
