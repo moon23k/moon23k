@@ -13,7 +13,7 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">How to utilize **BERT** on Machine Translation</a>
 &emsp; &emsp; &hairsp; 
-• &hairsp; <a href="https://github.com/moon23k/NMT_Aux">**Auxiliary Training** for Machine Translation</a>
+• &hairsp; <a href="https://github.com/moon23k/NMT_Bask">**Back Translation** for Machine Translation</a>
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_GEN">**Generative Training** for Machine Translation</a>
 &emsp; &emsp;
@@ -24,11 +24,11 @@
 **Dialogue Generation**
 > Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below is a set of experiments to generate more natural responses like humans do.
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">Simple Implementation of **SimEnt & DRESS**</a>
-&emsp; &emsp; &emsp; &ensp;
-• &hairsp; <a href="https://github.com/moon23k/Dialog_Aux">**Auxiliary Training** for Dialogue Generation</a>
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">**SimEnt Training**</a>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 
+• &hairsp; <a href="https://github.com/moon23k/Dialog_Aux">**SimEnt Data MOdification**</a>
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Char">**Characteristic Dialgue Generation** via **SeqGAN**</a>
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Char">**Characteristic Dialgue Generation**</a>
 &emsp; &emsp;
 • &hairsp; <a href="https://github.com/moon23k/Dialog_MulT">**Multi-Turn** Dialgue Generation Study</a>
 
@@ -43,7 +43,7 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate Better Summaries via **SeqGAN**</a>
 &emsp; &emsp; &thinsp;
-• &hairsp; <a href="https://github.com/moon23k/Sum_SALT">**S**emantic **A**nd **L**ength based Generative **T**raining</a>
+• &hairsp; <a href="https://github.com/moon23k/Sum_Encoders">**Summarization Encoders**</a>
 
 <br>
 
@@ -51,13 +51,15 @@
 &nbsp; AI research has been actively conducted, is currently in progress, and there will be more and more in the future. As research becomes more diverse, a baseline for objective evaluation is essential. I set four baselines for the NLG Tasks and call them **anchor codes**, each is **LSTM**, **GRU with Attention Mechanism**, **Transformer**, and **T5**. The former three models are the basic Encoder-Decoder Models via LSTM, Attention Mechanism, and Transformer. Those three models acts as minimum performance thresholds for the same network-based architectures. And the last T5 model is pre-trained Encoder-Decoder model, which shows great performances in many language generation tasks. The T5 model works as performance threshold for pre-trained models.
 
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/LSTM_Anchors">Anchor Code for **RNNs**</a> 
-&emsp; &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Attention_Anchors">Anchor Code for **Attentions**</a>
-
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Transformer_Anchors">Anchor Code for **Trasformer**</a> 
-&emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/T5_Anchors">Anchor Code for **Pre-trained Models**</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/LSTM_Anchors">**RNNs**</a> 
+&emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Attention_Anchors">**Attentions**</a> 
+&emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Transformer_Anchors">**Transformer**</a> 
+&emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/T5_Anchors">**Pre-trained Models**</a> 
+&emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/T5_Anchors">**Auxiliary Training**</a>
 
 <br>
 
@@ -77,6 +79,6 @@
 ## 💾 Data
 &nbsp; Deep Learning model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NLP_Datasets">**Load and Process**</a> &emsp; &emsp; &emsp;
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NLP_Datasets">**Data Load and Process**</a> &emsp; &emsp; &emsp;
 • &hairsp; <a href="https://github.com/moon23k/Tokenizations">**Tokenization**</a> &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/BackTranslation">**Back Translation**</a>
+• &hairsp; <a href="https://github.com/moon23k/BackTranslation">**Data Generation**</a>
