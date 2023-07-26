@@ -11,39 +11,39 @@
 **Neural Machine Translation**
 > Machine translation is the task of converting Text from Source Language into Target Language using a computer processing. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">How to utilize **BERT** on Machine Translation</a>
-&emsp; &emsp; &hairsp; 
-• &hairsp; <a href="https://github.com/moon23k/NMT_Bask">**Back Translation** for Machine Translation</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_ACT">**Additioanl Complementary Training**</a>
+&emsp; &emsp; &emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/NMT_Back">Utilize **Back Translation** technique</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_GEN">**Generative Training** for Machine Translation</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_GAN">**Generative Trainings** for Machine Translation</a>
 &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/NMT_GAN">Generate better Translation via **SeqGAN**</a>
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Utilize **BERT** on Machine Translation</a>
 
 <br>
 
 **Dialogue Generation**
 > Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below is a set of experiments to generate more natural responses like humans do.
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">**SimEnt Training**</a>
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 
-• &hairsp; <a href="https://github.com/moon23k/Dialog_Aux">**SimEnt Data MOdification**</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Dialog_Aux">**Auxiliary Training** for better a dialogue generation</a>
+&emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">Utilize **SimEnt** Technique</a>
 
 &emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Char">**Characteristic Dialgue Generation**</a>
-&emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/Dialog_MulT">**Multi-Turn** Dialgue Generation Study</a>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Dialog_MulT">**Multi-Turn Dialgue Generation**</a>
 
 <br>
 
-**Abstract Summarization**
+**Abstract Text Summarization**
 > Summarization Task summarizes long text into short sentences through Neural Networks, and the task can be devided into Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_BERT">How to Utilize **BERT** on Summarization</a> 
-&emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/Sum_HAT">**Sparse Attention** Study on Summarization</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_Encoders">**Encoder** focused study for Text Summarization</a>
+&emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Sum_GAN">**Generative Trainings** for Text Summarization</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Generate Better Summaries via **SeqGAN**</a>
-&emsp; &emsp; &thinsp;
-• &hairsp; <a href="https://github.com/moon23k/Sum_Encoders">**Summarization Encoders**</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_BERT">Utilize **BERT** on Text Summarization</a> 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Sum_HAT">**Sparse Attention** comparision study on Text Summarizaiton</a>
 
 <br>
 
@@ -51,15 +51,13 @@
 &nbsp; AI research has been actively conducted, is currently in progress, and there will be more and more in the future. As research becomes more diverse, a baseline for objective evaluation is essential. I set four baselines for the NLG Tasks and call them **anchor codes**, each is **LSTM**, **GRU with Attention Mechanism**, **Transformer**, and **T5**. The former three models are the basic Encoder-Decoder Models via LSTM, Attention Mechanism, and Transformer. Those three models acts as minimum performance thresholds for the same network-based architectures. And the last T5 model is pre-trained Encoder-Decoder model, which shows great performances in many language generation tasks. The T5 model works as performance threshold for pre-trained models.
 
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/LSTM_Anchors">**RNNs**</a> 
-&emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Attention_Anchors">**Attentions**</a> 
-&emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Transformer_Anchors">**Transformer**</a> 
-&emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/T5_Anchors">**Pre-trained Models**</a> 
-&emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/T5_Anchors">**Auxiliary Training**</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/RNN_Anchors">Anchor Codes for **RNN**</a> 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Attention_Anchors">Anchor Codes for **Attention**</a> 
+
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Transformer_Anchors">Anchor Codes for **Transformer**</a> 
+&emsp; &emsp; &emsp;
+• &hairsp; <a href="https://github.com/moon23k/T5_Anchors">Anchor Codes for **Pre-trained Models**</a> 
 
 <br>
 
@@ -81,4 +79,4 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/NLP_Datasets">**Data Load and Process**</a> &emsp; &emsp; &emsp;
 • &hairsp; <a href="https://github.com/moon23k/Tokenizations">**Tokenization**</a> &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/BackTranslation">**Data Generation**</a>
+• &hairsp; <a href="https://github.com/moon23k/DataGeneration">**Data Generation**</a>
