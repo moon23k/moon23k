@@ -3,7 +3,7 @@
 
 <br>
 
-## 👨🏻‍🔬 Experiments
+## 👨🏻‍🔬 NLG Experiments
 &nbsp; AI has a lot of variables, which means that various variable settings can make different results. Therefore, many experiments from various viewpoints are required to obtain good results. Below is a series of experiments that introduce different approaches on three representative NLP tasks. Each is **Neural Machine Translation**, **Dialogue Generation**, and **Abstractive Summarization**.
 
 <br>
@@ -11,26 +11,28 @@
 **Neural Machine Translation**
 > Machine translation is the task of converting Text from Source Language into Target Language using a computer processing. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_ACT">**Additioanl Complementary Training**</a>
-&emsp; &emsp; &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/NMT_Back">Utilize **Back Translation** technique</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_GEN">**Generative Training** Study for Machine Translation</a>
+&emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/NMT_GAN">Utilize **SeqGAN** Technique on Machine Translation</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_GAN">**Generative Trainings** for Machine Translation</a>
-&emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Utilize **BERT** on Machine Translation</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_Back">**Back Translation** Utilization Study</a>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &thinsp;
+• &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Utilize Pretrained **BERT** on Machine Translation</a>
 
 <br>
 
 **Dialogue Generation**
 > Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below is a set of experiments to generate more natural responses like humans do.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Dialog_Aux">**Auxiliary Training** for better a dialogue generation</a>
-&emsp; &emsp; 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Dialog_GEN">**Generative Training** Study for Dialogue Generation</a>
+&emsp; &emsp; &emsp; 
 • &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">Utilize **SimEnt** Technique</a>
 
-&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_Char">**Characteristic Dialgue Generation**</a>
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Dialog_MulT">**Multi-Turn Dialgue Generation**</a>
+&emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_GAN">Utilize **SeqGAN** Technique on Dialogue Generation</a>
+&emsp; &emsp; &emsp; &hairsp; 
+• &hairsp; <a href="https://github.com/moon23k/Dialog_Char">**Characteristic Dialgue Generation**</a>
+
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Dialog_MulT">**Multi-Turn Dialgue Generation**</a>
 
 <br>
 
@@ -38,39 +40,42 @@
 > Summarization Task summarizes long text into short sentences through Neural Networks, and the task can be devided into Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_Encoders">**Encoder** focused study for Text Summarization</a>
-&emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Sum_GAN">**Generative Trainings** for Text Summarization</a>
+&emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Utilize **SeqGAN** Technique on Text Summarization</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_BERT">Utilize **BERT** on Text Summarization</a> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Sum_HAT">**Sparse Attention** comparision study on Text Summarizaiton</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_BERT">Utilize Pretrained **BERT** on Text Summarization</a> 
+&emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Utilize **SeqGAN** Technique for Text Summarization</a>
+
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_Attention">**Sparse Attention** Comparision Study for Text Summarizaiton</a>
 
 <br>
 
 ## ⚓ Anchor Codes
-&nbsp; AI research has been actively conducted, is currently in progress, and there will be more and more in the future. As research becomes more diverse, a baseline for objective evaluation is essential. I set four baselines for the NLG Tasks and call them **anchor codes**, each is **LSTM**, **GRU with Attention Mechanism**, **Transformer**, and **T5**. The former three models are the basic Encoder-Decoder Models via LSTM, Attention Mechanism, and Transformer. Those three models acts as minimum performance thresholds for the same network-based architectures. And the last T5 model is pre-trained Encoder-Decoder model, which shows great performances in many language generation tasks. The T5 model works as performance threshold for pre-trained models.
+&nbsp; AI research has been actively conducted, is currently in progress, and there will be more and more in the future. As research becomes more diverse, a baseline for objective evaluation is essential. I set four baselines for the NLG Tasks and call them **Anchor Codes**, each is **RNN**, **Attention Mechanism**, **Transformer**, and **Pretrained Lanugage Model**. 
 
-
-&emsp; • &hairsp; <a href="https://github.com/moon23k/RNN_Anchors">Anchor Codes for **RNN**</a> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Attention_Anchors">Anchor Codes for **Attention**</a> 
-
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Transformer_Anchors">Anchor Codes for **Transformer**</a> 
-&emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/T5_Anchors">Anchor Codes for **Pre-trained Models**</a> 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/RNN_Anchor">**RNN** &hairsp; Anchor Code</a> 
+&emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Attention_Anchor">**Attention** &hairsp; Anchor Code</a> 
+&emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Transformer_Anchor">**Transformer** &hairsp; Anchor Code</a>
+&emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/PLM_Anchor">**PLM** &hairsp; Anchor Code</a>
 
 <br>
 
-## 📄 Ablation Studies
+## 📄 Comparison Analyses
 &nbsp; AI models show different results depending on the architecture and different techniques. Even a small change can make a big difference, so building an ability to control the change is necessary. Of course, this requires a lot of experiments, and below are the experiments.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Transformer_Arhcs">Ablation Studies on **Transformer Architectures**</a>
-&emsp; &emsp; &emsp; &ensp;
-• &hairsp; <a href="https://github.com/moon23k/PipeLines">Ablation studies on **Module PipeLines**</a> 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Aux_Training">**Auxiliary Training** &hairsp; Comparison Analysis</a>
+&emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Transformer_Arhcs">**Transformer Architectures** &hairsp; Comparison Analysis</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Efficient_Training">Ablation Studies on **Efficient Training Strategies**</a> 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/PipeLines">**Module PipeLines** &hairsp; Comparison Analysis</a> 
 &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/Efficient_Models">Ablation studies on **Efficient Models**</a>
+• &hairsp; <a href="https://github.com/moon23k/Efficient_Models">**Lightweight PLMs** &hairsp; Comparison Analysis</a>
+
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Efficient_Training">**Efficient Training Strategies** &hairsp; Comparison Analysis</a> 
 
 <br>
 
@@ -79,4 +84,4 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/NLP_Datasets">**Data Load and Process**</a> &emsp; &emsp; &emsp;
 • &hairsp; <a href="https://github.com/moon23k/Tokenizations">**Tokenization**</a> &emsp; &emsp; &emsp;
-• &hairsp; <a href="https://github.com/moon23k/DataGeneration">**Data Generation**</a>
+• &hairsp; <a href="https://github.com/moon23k/Data_Augmentation">**Data Augmentation**</a>
