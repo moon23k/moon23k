@@ -26,13 +26,13 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Dialog_GEN">**Generative Training** Study for Dialogue Generation</a>
 &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">Utilize **SimEnt** Technique</a>
+• &hairsp; <a href="https://github.com/moon23k/Dialog_SemEnt">Utilize **SimEnt** Technique to boost up Diversity</a>
 
 &emsp;  • &hairsp; <a href="https://github.com/moon23k/Dialog_GAN">Utilize **SeqGAN** Technique on Dialogue Generation</a>
 &emsp; &emsp; &emsp; &hairsp; 
-• &hairsp; <a href="https://github.com/moon23k/Dialog_Char">**Characteristic Dialgue Generation**</a>
+• &hairsp; <a href="https://github.com/moon23k/Dialog_Char">How to give **Characteristic** on Dialogue Generation Model</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Dialog_MulT">**Multi-Turn Dialgue Generation**</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Dialog_MulT">**Multi-Turn Dialgue Generation** Study</a>
 
 <br>
 
@@ -45,22 +45,18 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_BERT">Utilize Pretrained **BERT** on Text Summarization</a> 
 &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Utilize **SeqGAN** Technique for Text Summarization</a>
-
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_Attention">**Sparse Attention** Comparision Study for Text Summarizaiton</a>
+• &hairsp; <a href="https://github.com/moon23k/Sum_Sparse">**Sparse Attention** Comparision Study</a>
 
 <br>
 
 ## ⚓ Anchor Codes
 &nbsp; AI research has been actively conducted, is currently in progress, and there will be more and more in the future. As research becomes more diverse, a baseline for objective evaluation is essential. I set four baselines for the NLG Tasks and call them **Anchor Codes**, each is **RNN**, **Attention Mechanism**, **Transformer**, and **Pretrained Lanugage Model**. 
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/RNN_Anchor">**RNN** &hairsp; Anchor Code</a> 
-&emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Attention_Anchor">**Attention** &hairsp; Anchor Code</a> 
-&emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Transformer_Anchor">**Transformer** &hairsp; Anchor Code</a>
-&emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/PLM_Anchor">**PLM** &hairsp; Anchor Code</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/RNN_Anchors">**RNN** &hairsp; Anchor Codes</a> 
+&emsp; &emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Attention_Anchors">**Attention** &hairsp; Anchor Codes</a> 
+&emsp; &emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Transformer_Anchors">**Transformer** &hairsp; Anchor Codes</a>
 
 <br>
 
@@ -75,7 +71,9 @@
 &emsp; &emsp; &emsp;
 • &hairsp; <a href="https://github.com/moon23k/Efficient_Models">**Lightweight PLMs** &hairsp; Comparison Analysis</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Efficient_Training">**Efficient Training Strategies** &hairsp; Comparison Analysis</a> 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Efficient_Training">**Efficient Training** &hairsp; Comparison Analysis</a> 
+&emsp; &emsp; &emsp; &hairsp; 
+• &hairsp; <a href="https://github.com/moon23k/PEFT">**PEFT** &hairsp; Comparison Analysis</a>
 
 <br>
 
