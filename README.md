@@ -1,3 +1,5 @@
+<br>
+
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World
 &nbsp; Hi there! I'm **moon**, somebody who's focusing on solving problems through artificial intelligence. AI has many subcategories, of which I find Natural Language Processing the most interesting. By profession, I'm a **NLP Machine Learning Engineer**. As an engineer, I aim to develop a model that can communicate naturally with people. So the codes in all my repos will contain the progress towards the goal. In addition to the codes in my git repos, reviews of the papers and personal research on artificial intelligence techniques are recorded on my <a href="https://shy-vole-f74.notion.site/Hello-I-m-moon-e1ecc2e40b32405e997713cfb44e4f3c">notion page</a>. If you would like to contact me, please contact me at the email address in the left information field.
 
@@ -63,13 +65,13 @@
 &emsp; &emsp; &nbsp; &emsp; 
 • &hairsp; <a href="https://github.com/moon23k/Transformer_Arhcs">**Transformer Architectures**</a>
 &emsp; &emsp; &emsp; &ensp; &hairsp; 
-• &hairsp; <a href="https://github.com/moon23k/PipeLines">**Module PipeLines**</a> 
+• &hairsp; <a href="https://github.com/moon23k/DOT">**Decoder Only Training**</a> 
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/Efficient_Models">**Efficient PLMs**</a> 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/Eff_PLMs">**Efficient PLMs**</a> 
 &emsp; &emsp; &emsp; &emsp; &ensp; 
-• &hairsp; <a href="https://github.com/moon23k/Efficient_Training">**Efficient Training Strategies**</a> 
+• &hairsp; <a href="https://github.com/moon23k/Eff_Training">**Efficient Training Strategies**</a> 
 &emsp; &emsp; &emsp; &thinsp; 
-• &hairsp; <a href="https://github.com/moon23k/PEFT">**PEFT**</a>
+• &hairsp; <a href="https://github.com/moon23k/PEFT">**Parameter Efficient Fine Tuning**</a>
 
 <br><br>
 
