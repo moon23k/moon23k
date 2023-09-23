@@ -17,7 +17,8 @@
 &emsp; &emsp; &emsp; 
 • &hairsp; <a href="https://github.com/moon23k/NMT_GAN">Utilize **SeqGAN** Technique on Machine Translation</a>
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_BERT">Utilize **PLM** on Machine Translation</a>
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NMT_Back">Utilize **Back Translation** for small En-Ko Dataset</a> &emsp; &emsp; &emsp; &nbsp; &thinsp; 
+• &hairsp; <a href="https://github.com/moon23k/PLM_Fuse">How to fuse **PLM** on Machine Translation</a>
 
 <br>
 
@@ -41,7 +42,7 @@
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_Encoders">**Encoder** focused Text Summarization Modeling</a>
 &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Sum_BERT">Utilize **PLM** on Text Summarization</a> 
+• &hairsp; <a href="https://github.com/moon23k/Sum_BERT">How to fuse **PLM** on Text Summarization</a> 
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Sum_GAN">Utilize **SeqGAN** Technique on Text Summarization</a>
 
@@ -65,12 +66,10 @@
 &emsp; &emsp; &nbsp; &emsp; 
 • &hairsp; <a href="https://github.com/moon23k/Transformer_Arhcs">**Transformer Architectures**</a>
 &emsp; &emsp; &emsp; &ensp; &hairsp; 
-• &hairsp; <a href="https://github.com/moon23k/DOT">**Decoder Only Training**</a> 
+• &hairsp; <a href="https://github.com/moon23k/Eff_Training">**Efficient Training Strategies**</a> 
 
 &emsp; • &hairsp; <a href="https://github.com/moon23k/Eff_PLMs">**Efficient PLMs**</a> 
 &emsp; &emsp; &emsp; &emsp; &ensp; 
-• &hairsp; <a href="https://github.com/moon23k/Eff_Training">**Efficient Training Strategies**</a> 
-&emsp; &emsp; &emsp; &thinsp; 
 • &hairsp; <a href="https://github.com/moon23k/PEFT">**Parameter Efficient Fine Tuning**</a>
 
 <br><br>
@@ -78,8 +77,7 @@
 ## 💾 Data
 &nbsp; Deep Learning model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation.
 
-&emsp; • &hairsp; <a href="https://github.com/moon23k/NLP_Datasets">**Data Load and Process**</a> &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/Tokenizations">**Tokenization**</a> &emsp; &emsp; &emsp; 
-• &hairsp; <a href="https://github.com/moon23k/BackTranslation">**Back Translation**</a> &emsp; &emsp; &emsp; 
+&emsp; • &hairsp; <a href="https://github.com/moon23k/NLP_Datasets">**Data Load and Process**</a> &emsp; &emsp; &emsp; &emsp; 
+• &hairsp; <a href="https://github.com/moon23k/Tokenizations">**Tokenization**</a> &emsp; &emsp; &emsp; &emsp; 
 • &hairsp; <a href="https://github.com/moon23k/Data_Augmentation">**Data Augmentation**</a>
 <br>
