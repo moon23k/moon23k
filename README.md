@@ -1,5 +1,3 @@
-<br>
-
 ## ✋ Hello World
 &nbsp; Hi there! I'm **moon**, somebody who's focusing on solving problems through artificial intelligence. AI has many subcategories, of which I find Natural Language Processing the most interesting. By profession, I'm a **NLP Machine Learning Engineer**. As an engineer, I aim to develop a model that can communicate naturally with people. So the codes in all my repos will contain the progress towards the goal. In addition to the codes in my git repos, reviews of the papers and personal research on artificial intelligence techniques are recorded on my <a href="https://shy-vole-f74.notion.site/Hello-I-m-moon-e1ecc2e40b32405e997713cfb44e4f3c">notion page</a>. If you would like to contact me, please contact me at the email address in the left information field.
 
@@ -16,8 +14,8 @@ A series of projects, concentrating on model architecture, are presented below t
 | [**• &hairsp; RNN Seq2Seq**](https://github.com/moon23k/RNN_Seq2Seq)                           | An analysis of model performance in Seq2seq models with the use of RNN, LSTM, and GRU |
 | [**• &hairsp; RNN Seq2Seq with Attention**](https://github.com/moon23k/RNN_Seq2Seq_Attention)  | Compare Three Attention mechanism added Architectures on Three NLG tasks |
 | [**• &hairsp; Transformer**](https://github.com/moon23k/Transformer)                           | Compare Custom Transformer and Pytorch Transformer |
-| [**• &hairsp; Encoder Decoder Param Ratio**](https://github.com/moon23k/Param_Ratio)           | Explore How the ratio of Encoder & Decoder affects three NLG Tasks |
 | [**• &hairsp; Transformer Variants**](https://github.com/moon23k/Transformer_Variants)         | Compare Standard Transformer, Recurrent Transformer, and Evolved Transformer |
+| [**• &hairsp; Encoder & Decoder**](https://github.com/moon23k/EncDec)                          | Verify and Test various combinations of Encoder & Decoder in three different NLG tasks |
 | [**• &hairsp; PLM Fusion**](https://github.com/moon23k/PLM_Fusion)                             | Compare Two way of fusing PLM Encoder and Transformer Decoder |
 
 <br><br> 
@@ -30,9 +28,9 @@ To address this issue, the following project introduces an efficient approach th
 
 | Title | Desc |
 |---|---|
-| [**• &hairsp; Efficient Training**](https://github.com/moon23k/Eff_Training)  | Explore methods to efficiently utilize GPU memory during the learning process and compare the GPU usage and actual training results for each approach |
-| [**• &hairsp; Efficient PLMs**](https://github.com/moon23k/Eff_PLMs)          | Compare BERT with three Lightweight PreTrained Language Models on performance and efficiency |
-| [**• &hairsp; Param Efficient Fine-Tuning**](https://github.com/moon23k/PEFT) | Fine-tune Large-Scale PreTrained Models using the PEFT (Parameter Effective Fine-Tuning) approach and evaluate their performance and efficiency |
+| [**• &hairsp; Efficient Training**](https://github.com/moon23k/Efficient_Training)  | Explore methods to efficiently utilize GPU memory during the learning process and compare the GPU usage and actual training results for each approach |
+| [**• &hairsp; Efficient PLMs**](https://github.com/moon23k/Efficient_PLMs)          | Compare BERT with three Lightweight PreTrained Language Models on performance and efficiency |
+| [**• &hairsp; Param Efficient Fine-Tuning**](https://github.com/moon23k/PEFT)       | Fine-tune Large-Scale PreTrained Models using the PEFT (Parameter Effective Fine-Tuning) approach and evaluate their performance and efficiency |
 
 <br><br> 
 
@@ -46,10 +44,10 @@ On the other hand, **`Generative Training`** and **`SeqGAN Training`** may have 
 
 | Title | Desc |
 |---|---|
-| [**• &hairsp; Auxiliary Training**](https://github.com/moon23k/Aux_Training)       |  |
-| [**• &hairsp; Scheduled Sampling**](https://github.com/moon23k/Scheduled_Sampling) |  |
-| [**• &hairsp; Generative Training**](https://github.com/moon23k/GEN_Training)      |  |
-| [**• &hairsp; SeqGAN Training**](https://github.com/moon23k/GAN_Training)          |  |
+| [**• &hairsp; Auxiliary Training**](https://github.com/moon23k/Aux_Training)       | Enhance generation capabilities through Auxiliary Training |
+| [**• &hairsp; Scheduled Sampling**](https://github.com/moon23k/Scheduled_Sampling) | Apply Scheduled Sampling Technique on Transformer |
+| [**• &hairsp; Generative Training**](https://github.com/moon23k/GEN_Training)      | Generative Training on small Dataset |
+| [**• &hairsp; SeqGAN Training**](https://github.com/moon23k/GAN_Training)          | SeqGAN Training on small Dataset |
 
 <br><br> 
 
@@ -99,5 +97,3 @@ On the other hand, **`Generative Training`** and **`SeqGAN Training`** may have 
 | [**• &hairsp; NLG Datasets**](https://github.com/moon23k/NLG_datasets)           | Load and Process Datasets for Natural Language Generation Tasks |
 | [**• &hairsp; Tokenizations**](https://github.com/moon23k/Tokenizations)         | Investigate the impact of various tokenization methods on the model's performance |
 | [**• &hairsp; Data Augmentation**](https://github.com/moon23k/Data_Augmentation) | Augment Data to overcome Data Shortage |
-
-<br><br> 
