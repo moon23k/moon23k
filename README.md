@@ -4,8 +4,8 @@
 <br><br> 
 
 
-## 🤖 Model Design
-> &nbsp; Model design is a crucial element in machine learning engineering. 
+## 🤖 Model Architecture
+> &nbsp; Model architecture is a crucial element in machine learning engineering. 
 The choice of model architecture can significantly impact performance. 
 A series of projects, concentrating on model architecture, are presented below to establish standards for the suitable model structures in three NLG tasks: Translation, Dialogue Generation, and Summarization.
 
@@ -21,21 +21,7 @@ A series of projects, concentrating on model architecture, are presented below t
 <br><br> 
 
 
-## ⏰ Toward Efficiency
-> &nbsp; Large-scale models with numerous parameters tend to deliver better performance. Many recent research focus on training even larger models on extensive datasets to achieve superior results. 
-However, deploying such large-scale models in typical computing environments can be restrictive. 
-To address this issue, the following project introduces an efficient approach that maintains a certain level of performance while mitigating computational demands.
-
-| Title | Desc |
-|---|---|
-| [**• &hairsp; Efficient Training**](https://github.com/moon23k/Efficient_Training)  | Explore methods to efficiently utilize GPU memory during the learning process and compare the GPU usage and actual training results for each approach |
-| [**• &hairsp; Efficient PLMs**](https://github.com/moon23k/Efficient_PLMs)          | Compare BERT with three Lightweight PreTrained Language Models on performance and efficiency |
-| [**• &hairsp; Param Efficient Fine-Tuning**](https://github.com/moon23k/PEFT)       | Fine-tune Large-Scale PreTrained Models using the PEFT (Parameter Effective Fine-Tuning) approach and evaluate their performance and efficiency |
-
-<br><br> 
-
-
-## 🏃‍♂️ Training Methodology
+## 🏃‍♂️ Training Strategy
 > &nbsp; In the typical training process of a Seq2Seq model for Natural Language Generation, the issue of 'Exposure Bias' and the discrepancy between training and inference inevitably arises. 
 The most ideal solution is to train the model on a large and diverse dataset, but in reality, this is a challenging endeavor. 
 To overcome these constraints and enhance training effectiveness, several training strategies are proposed below.
@@ -48,6 +34,20 @@ On the other hand, **`Generative Training`** and **`SeqGAN Training`** may have 
 | [**• &hairsp; Scheduled Sampling**](https://github.com/moon23k/Scheduled_Sampling) | Apply Scheduled Sampling Technique on Transformer |
 | [**• &hairsp; Generative Training**](https://github.com/moon23k/GEN_Training)      | Generative Training on small Dataset |
 | [**• &hairsp; SeqGAN Training**](https://github.com/moon23k/GAN_Training)          | SeqGAN Training on small Dataset |
+
+<br><br> 
+
+
+## ⏰ Toward Efficiency
+> &nbsp; Large-scale models with numerous parameters tend to deliver better performance. Many recent research focus on training even larger models on extensive datasets to achieve superior results. 
+However, deploying such large-scale models in typical computing environments can be restrictive. 
+To address this issue, the following project introduces an efficient approach that maintains a certain level of performance while mitigating computational demands.
+
+| Title | Desc |
+|---|---|
+| [**• &hairsp; Efficient Training**](https://github.com/moon23k/Efficient_Training)  | Explore methods to efficiently utilize GPU memory during the learning process and compare the GPU usage and actual training results for each approach |
+| [**• &hairsp; Efficient PLMs**](https://github.com/moon23k/Efficient_PLMs)          | Compare BERT with three Lightweight PreTrained Language Models on performance and efficiency |
+| [**• &hairsp; Param Efficient Fine-Tuning**](https://github.com/moon23k/PEFT)       | Fine-tune Large-Scale PreTrained Models using the PEFT (Parameter Effective Fine-Tuning) approach and evaluate their performance and efficiency |
 
 <br><br> 
 
