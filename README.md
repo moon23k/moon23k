@@ -5,95 +5,66 @@
 
 
 ## 🤖 Model Architecture
-> &nbsp; Model architecture is a crucial element in machine learning engineering. 
+&nbsp; Model architecture is a crucial element in machine learning engineering. 
 The choice of model architecture can significantly impact performance. 
 A series of projects, concentrating on model architecture, are presented below to establish standards for the suitable model structures in three NLG tasks: Translation, Dialogue Generation, and Summarization.
 
-| Title | Desc |
-|---|---|
-| [**• &hairsp; RNN Seq2Seq**](https://github.com/moon23k/RNN_Seq2Seq)                           | An analysis of model performance in Seq2seq models with the use of RNN, LSTM, and GRU |
-| [**• &hairsp; RNN Seq2Seq with Attention**](https://github.com/moon23k/RNN_Seq2Seq_Attention)  | Compare Three Attention mechanism added Architectures on Three NLG tasks |
-| [**• &hairsp; Transformer**](https://github.com/moon23k/Transformer)                           | Compare Custom Transformer and Pytorch Transformer |
-| [**• &hairsp; Transformer Variants**](https://github.com/moon23k/Transformer_Variants)         | Compare Standard Transformer, Recurrent Transformer, and Evolved Transformer |
-| [**• &hairsp; Encoder & Decoder**](https://github.com/moon23k/EncDec)                          | Verify and Test various combinations of Encoder & Decoder in three different NLG tasks |
-| [**• &hairsp; PLM Fusion**](https://github.com/moon23k/PLM_Fusion)                             | Compare Two way of fusing PLM Encoder and Transformer Decoder |
+### [• RNN Seq2Seq](https://github.com/moon23k/RNN_Seq2Seq) &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; &nbsp; [• RNN Seq2Seq with Attention](https://github.com/moon23k/RNN_Seq2Seq) &emsp; &emsp; &emsp; [• Transformer](https://github.com/moon23k/RNN_Seq2Seq)
+### [• Transformer Variants](https://github.com/moon23k/Transformer_Variants) &emsp; &emsp; &emsp; [• Encoder Decoder Balance](https://github.com/moon23k/Balance) &emsp; &emsp; &emsp; &emsp; [• PLM Fusion](https://github.com/moon23k/PLM_Fusion)
+
 
 <br><br> 
 
 
 ## 🏃‍♂️ Training Strategy
-> &nbsp; In the typical training process of a Seq2Seq model for Natural Language Generation, the issue of 'Exposure Bias' and the discrepancy between training and inference inevitably arises. 
+&nbsp; In the typical training process of a Seq2Seq model for Natural Language Generation, the issue of 'Exposure Bias' and the discrepancy between training and inference inevitably arises. 
 The most ideal solution is to train the model on a large and diverse dataset, but in reality, this is a challenging endeavor. 
 To overcome these constraints and enhance training effectiveness, several training strategies are proposed below.
 Among these, **`Auxiliary Training`** and **`Scheduled Sampling`** aim to make the most of GPU parallel processing while facilitating complementary learning. 
 On the other hand, **`Generative Training`** and **`SeqGAN Training`** may have lower training efficiency but serve as strategies to extract maximum performance in extremely data-restricted environments.
 
-| Title | Desc |
-|---|---|
-| [**• &hairsp; Auxiliary Training**](https://github.com/moon23k/Aux_Training)       | Enhance generation capabilities through Auxiliary Training |
-| [**• &hairsp; Scheduled Sampling**](https://github.com/moon23k/Scheduled_Sampling) | Apply Scheduled Sampling Technique on Transformer |
-| [**• &hairsp; Generative Training**](https://github.com/moon23k/GEN_Training)      | Generative Training on small Dataset |
-| [**• &hairsp; SeqGAN Training**](https://github.com/moon23k/GAN_Training)          | SeqGAN Training on small Dataset |
+### [• Auxiliary Training](https://github.com/moon23k/Aux_Training) &emsp; &emsp; [• Scheduled Sampling](https://github.com/moon23k/Scheduled_Sampling) &emsp; &emsp; [• Generative Training](https://github.com/moon23k/EncDec) &emsp; &emsp; [• SeqGAN Training](https://github.com/moon23k/Transformer_Variants)
+
 
 <br><br> 
 
 
 ## ⏰ Toward Efficiency
-> &nbsp; Large-scale models with numerous parameters tend to deliver better performance. Many recent research focus on training even larger models on extensive datasets to achieve superior results. 
+&nbsp; Large-scale models with numerous parameters tend to deliver better performance. Many recent research focus on training even larger models on extensive datasets to achieve superior results. 
 However, deploying such large-scale models in typical computing environments can be restrictive. 
 To address this issue, the following project introduces an efficient approach that maintains a certain level of performance while mitigating computational demands.
 
-| Title | Desc |
-|---|---|
-| [**• &hairsp; Efficient Training**](https://github.com/moon23k/Efficient_Training)  | Explore methods to efficiently utilize GPU memory during the learning process and compare the GPU usage and actual training results for each approach |
-| [**• &hairsp; Efficient PLMs**](https://github.com/moon23k/Efficient_PLMs)          | Compare BERT with three Lightweight PreTrained Language Models on performance and efficiency |
-| [**• &hairsp; Param Efficient Fine-Tuning**](https://github.com/moon23k/PEFT)       | Fine-tune Large-Scale PreTrained Models using the PEFT (Parameter Effective Fine-Tuning) approach and evaluate their performance and efficiency |
+### [• Efficient Training](https://github.com/moon23k/Efficient_Training) &emsp; &emsp; &emsp; [• Efficient PLMs](https://github.com/moon23k/Efficient_PLMs) &emsp; &emsp; &emsp; [• Param Efficient Fine-Tuning](https://github.com/moon23k/PEFT)
 
 <br><br> 
 
 
 ## 🔄 Neural Machine Translation
-> &nbsp; Machine translation is the task of converting Text from Source Language into Target Language using a computer processing. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
+&nbsp; Machine translation is the task of converting Text from Source Language into Target Language using a computer processing. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
 
-| Title | Desc |
-|---|---|
-| [**• &hairsp; Back Translation**](https://github.com/moon23k/NMT_Back)                  | Examine how effective BackTranslation is when data is limited |
-| [**• &hairsp; Multi-Lingual Translation**](https://github.com/moon23k/NMT_MultiLingual) | Compare the performance between a Multilingual Translation Model and Translation Models trained separately for each language pair |
-| [**• &hairsp; NMT Blend**](https://github.com/moon23k/NMT_Blend)                        | Based on the previous projects, blend the most optimal architecture and training method. And verify the Performance |
+### [• Back Translation](https://github.com/moon23k/NMT_Back) &emsp; &emsp; &emsp; [• Multi-Lingual Translation](https://github.com/moon23k/NMT_MultiLingual) &emsp; &emsp; &emsp; [• Machine Translation Blend](https://github.com/moon23k/NMT_Blend)
 
 <br><br> 
 
 
 ## 🗣️ Dialogue Generation
-> &nbsp; Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below are a set of experiments to generate more natural responses like humans do.
+&nbsp; Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below are a set of experiments to generate more natural responses like humans do.
 
-| Title | Desc |
-|---|---|
-| [**• &hairsp; Characteristic Dialogue Generation**](https://github.com/moon23k/Dialog_Char) | An experiment to infuse personality into the GPT model with only a small dataset using SeqGAN techniques |
-| [**• &hairsp; Utilize SimEnt Technique**](https://github.com/moon23k/Dialog_SimEnt)         |  |
-| [**• &hairsp; Multi-Turn Dialgue Generation**](https://github.com/moon23k/Dialig_MultiTurn) |  |
-| [**• &hairsp; Dialogue Generation Blend**](https://github.com/moon23k/Dialig_Blend)         | Based on the previous projects, blend the most optimal architecture and training method. And verify the Performance |
+### [• Characteristic Dialogue Generation](https://github.com/moon23k/Dialog_Char) &emsp; &emsp; &emsp; [• Utilize SimEnt Technique](https://github.com/moon23k/Dialog_SimEnt) 
+### [• Multi-Turn Dialgue Generation](https://github.com/moon23k/Dialog_MultiTurn) &emsp; &emsp; &emsp; &emsp; &emsp; [• Dialgue Generation Blend](https://github.com/moon23k/Dialog_Blend)
 
 <br><br> 
 
 
 ## 📝 Abstract Text Summarization
-> &nbsp; Summarization Task summarizes long text into short sentences through Neural Networks, and the task can be devided into Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
+&nbsp; Summarization Task summarizes long text into short sentences through Neural Networks, and the task can be devided into Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-| Title | Desc |
-|---|---|
-| [**• &hairsp; Hierarchical Encoder**](https://github.com/moon23k/Summ_HierEnc) | Implement Hierarchical Encoder to handle long input sequence & Compare performance with Standard Encoder |
-| [**• &hairsp; Sparse Attention**](https://github.com/moon23k/Summ_Sparse)      | Implement and validate the utility of Sparse Attention in Text Summarization |
-| [**• &hairsp; Summarizartion Blend**](https://github.com/moon23k/Summ_Blend)   | Based on the previous projects, blend the most optimal architecture and training method. And verify the Performance |
+### [• Hierarchical Encoder](https://github.com/moon23k/Summ_HierEnc) &emsp; &emsp; &emsp; [• Sparse Attention](https://github.com/moon23k/Summ_Sparse) &emsp; &emsp; &emsp; [• Summarization Blend](https://github.com/moon23k/Summ_Blend)
 
 <br><br> 
 
 
 ## 💾 Data
-> &nbsp; Deep Learning model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation.
+&nbsp; Deep Learning model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation.
 
-| Title | Desc |
-|---|---|
-| [**• &hairsp; NLG Datasets**](https://github.com/moon23k/NLG_datasets)           | Load and Process Datasets for Natural Language Generation Tasks |
-| [**• &hairsp; Tokenizations**](https://github.com/moon23k/Tokenizations)         | Investigate the impact of various tokenization methods on the model's performance |
-| [**• &hairsp; Data Augmentation**](https://github.com/moon23k/Data_Augmentation) | Augment Data to overcome Data Shortage |
+### [• NLP Datasets](https://github.com/moon23k/NLP_Datasets) &emsp; &emsp; &emsp; [• Tokenizations](https://github.com/moon23k/Tokenizations) &emsp; &emsp; &emsp; [• Data Augmentation](https://github.com/moon23k/Data_Augmentation)
