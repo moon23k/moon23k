@@ -1,3 +1,5 @@
+<br> 
+
 ## ✋ Hello World
 &nbsp; Hi there! I'm **moon**, somebody who's focusing on solving problems through artificial intelligence. AI has many subcategories, of which I find Natural Language Processing the most interesting. By profession, I'm a **NLP Machine Learning Engineer**. As an engineer, I aim to develop a model that can communicate naturally with people. So the codes in all my repos will contain the progress towards the goal. In addition to the codes in my git repos, reviews of the papers and personal research on artificial intelligence techniques are recorded on my <a href="https://shy-vole-f74.notion.site/Hello-I-m-moon-e1ecc2e40b32405e997713cfb44e4f3c">notion page</a>. If you would like to contact me, please contact me at the email address in the left information field.
 
@@ -59,9 +61,9 @@ To address this issue, the following project introduces an efficient approach th
 ## 🗣️ Dialogue Generation
 > &nbsp; Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below are a set of experiments to generate more natural responses like humans do.
 
-&emsp; [**• &hairsp; Characteristic Dialogue Generation**](https://github.com/moon23k/Dialog_Char) &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; Utilize SimEnt Technique**](https://github.com/moon23k/Dialog_SimEnt) <br><br> 
-&emsp; [**• &hairsp; Multi-Turn Dialgue Generation**](https://github.com/moon23k/Dialog_MultiTurn) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+&emsp; [**• &hairsp; Characteristic Dialogue**](https://github.com/moon23k/Dialog_Char) &emsp; &emsp; &emsp; 
+       [**• &hairsp; Utilize SimEnt**](https://github.com/moon23k/Dialog_SimEnt) &emsp; &emsp; &emsp; 
+       [**• &hairsp; Multi-Turn Dialgue**](https://github.com/moon23k/Dialog_MultiTurn) &emsp; &emsp; &emsp; 
        [**• &hairsp; Dialgue Generation Blend**](https://github.com/moon23k/Dialog_Blend)
 
 <br><br> 
@@ -78,8 +80,10 @@ To address this issue, the following project introduces an efficient approach th
 
 
 ## 💾 Data
-&nbsp; Deep Learning model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation.
+> &nbsp; Deep Learning model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation.
 
 &emsp; [**• &hairsp; NLP Datasets**](https://github.com/moon23k/NLP_Datasets) &emsp; &emsp; &emsp; &emsp; &emsp; 
        [**• &hairsp; Tokenizations**](https://github.com/moon23k/Tokenizations) &emsp; &emsp; &emsp; &emsp; &emsp; 
        [**• &hairsp; Data Augmentation**](https://github.com/moon23k/Data_Augmentation)
+
+<br> 
