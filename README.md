@@ -12,8 +12,8 @@ The choice of model architecture can significantly impact performance.
 A series of projects, concentrating on model architecture, are presented below to establish standards for the suitable model structures in three NLG tasks: Translation, Dialogue Generation, and Summarization.
 
 &emsp; [**• &hairsp; RNN Seq2Seq**](https://github.com/moon23k/RNN_Seq2Seq) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; &nbsp; 
-       [**• &hairsp; RNN Seq2Seq with Attention**](https://github.com/moon23k/RNN_Seq2Seq) &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; Transformer**](https://github.com/moon23k/RNN_Seq2Seq) <br><br> 
+       [**• &hairsp; RNN Seq2Seq with Attention**](https://github.com/moon23k/RNN_Seq2Seq_Attention) &emsp; &emsp; &emsp; &emsp; &emsp; 
+       [**• &hairsp; Transformer**](https://github.com/moon23k/Transformer) <br><br> 
 &emsp; [**• &hairsp; Transformer Variants**](https://github.com/moon23k/Transformer_Variants) &emsp; &emsp; &emsp; &emsp; &emsp; 
        [**• &hairsp; Encoder Decoder Balance**](https://github.com/moon23k/Balance) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
        [**• &hairsp; PLM Fusion**](https://github.com/moon23k/PLM_Fusion)
@@ -30,8 +30,8 @@ On the other hand, **`Generative Training`** and **`SeqGAN Training`** may have 
 
 &emsp; [**• &hairsp; Auxiliary Training**](https://github.com/moon23k/Aux_Training) &emsp; &emsp; &emsp; &emsp; 
        [**• &hairsp; Scheduled Sampling**](https://github.com/moon23k/Scheduled_Sampling) &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; Generative Training**](https://github.com/moon23k/EncDec) &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; SeqGAN Training**](https://github.com/moon23k/Transformer_Variants)
+       [**• &hairsp; Generative Training**](https://github.com/moon23k/GEN_Training) &emsp; &emsp; &emsp; &emsp; 
+       [**• &hairsp; SeqGAN Training**](https://github.com/moon23k/GAN_Training)
 
 <br><br> 
 
