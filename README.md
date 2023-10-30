@@ -28,9 +28,10 @@ To overcome these constraints and enhance training effectiveness, several traini
 Among these, **`Auxiliary Training`** and **`Scheduled Sampling`** aim to make the most of GPU parallel processing while facilitating complementary learning. 
 On the other hand, **`Generative Training`** and **`SeqGAN Training`** may have lower training efficiency but serve as strategies to extract maximum performance in extremely data-restricted environments.
 
-&emsp; [**• &hairsp; Auxiliary Training**](https://github.com/moon23k/Aux_Training) &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; Scheduled Sampling**](https://github.com/moon23k/Scheduled_Sampling) &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; Generative Training**](https://github.com/moon23k/GEN_Training) &emsp; &emsp; &emsp; &emsp; 
+&emsp; [**• &hairsp; Auxiliary Training**](https://github.com/moon23k/Aux_Training) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+       [**• &hairsp; Scheduled Sampling**](https://github.com/moon23k/Scheduled_Sampling) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+       [**• &hairsp; Text Training**](https://github.com/moon23k/Text_Training) <br><br> 
+&emsp; [**• &hairsp; Generative Training**](https://github.com/moon23k/GEN_Training) &emsp; &emsp; &emsp; &emsp; &emsp; &hairsp; 
        [**• &hairsp; SeqGAN Training**](https://github.com/moon23k/GAN_Training)
 
 <br><br> 
@@ -51,8 +52,9 @@ To address this issue, the following project introduces an efficient approach th
 ## 🔄 Neural Machine Translation
 > &nbsp; Machine translation is the task of converting Text from Source Language into Target Language using a computer processing. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
 
-&emsp; [**• &hairsp; Back Translation**](https://github.com/moon23k/NMT_Back) &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; Multi-Lingual Translation**](https://github.com/moon23k/NMT_MultiLingual) &emsp; &emsp; &emsp; &emsp; &emsp; 
+&emsp; [**• &hairsp; Back Translation**](https://github.com/moon23k/NMT_Back) &emsp; &emsp; &emsp; 
+       [**• &hairsp; Multi-Lingual Translation**](https://github.com/moon23k/NMT_MultiLingual) &emsp; &emsp; &emsp; 
+       [**• &hairsp; Code Translation**](https://github.com/moon23k/NMT_Code) &emsp; &emsp; &emsp; 
        [**• &hairsp; Machine Translation Blend**](https://github.com/moon23k/NMT_Blend)
 
 <br><br> 
