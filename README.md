@@ -28,11 +28,11 @@ To overcome these constraints and enhance training effectiveness, several traini
 Among these, **`Auxiliary Training`** and **`Scheduled Sampling`** aim to make the most of GPU parallel processing while facilitating complementary learning. 
 On the other hand, **`Generative Training`** and **`SeqGAN Training`** may have lower training efficiency but serve as strategies to extract maximum performance in extremely data-restricted environments.
 
-&emsp; [**• &hairsp; Auxiliary Training**](https://github.com/moon23k/Aux_Training) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; Scheduled Sampling**](https://github.com/moon23k/Scheduled_Sampling) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; Text Training**](https://github.com/moon23k/Text_Training) <br><br> 
-&emsp; [**• &hairsp; Generative Training**](https://github.com/moon23k/GEN_Training) &emsp; &emsp; &emsp; &emsp; &emsp; &hairsp; 
-       [**• &hairsp; SeqGAN Training**](https://github.com/moon23k/GAN_Training)
+&emsp; [**• &hairsp; Auxiliary Training**](https://github.com/moon23k/Aux_Training) &emsp; &emsp; &ensp; 
+       [**• &hairsp; Scheduled Sampling**](https://github.com/moon23k/Scheduled_Sampling) &emsp; &emsp; &ensp; 
+       [**• &hairsp; Pre Training**](https://github.com/moon23k/Pre_Training) &emsp; &emsp; &ensp; 
+&emsp; [**• &hairsp; Generative Training**](https://github.com/moon23k/GEN_Training) &emsp; &emsp; &ensp; 
+       [**• &hairsp; SeqGAN**](https://github.com/moon23k/SeqGAN)
 
 <br><br> 
 
@@ -77,15 +77,5 @@ To address this issue, the following project introduces an efficient approach th
 &emsp; [**• Hierarchical Encoder**](https://github.com/moon23k/Summ_HierEnc) &emsp; &emsp; &emsp; &emsp; &emsp; 
        [**• Sparse Attention**](https://github.com/moon23k/Summ_Sparse) &emsp; &emsp; &emsp; &emsp; &emsp; 
        [**• Summarization Blend**](https://github.com/moon23k/Summ_Blend)
-
-<br><br> 
-
-
-## 💾 Data
-> &nbsp; Deep Learning model learns from large amounts of data. Therefore, high-quality bulk data is essential for building a good model. Below is a series of Data-Related Experiments. And the Experiements include from simply fetching and processing data, to further research such as Tokenization and Data Augmentation.
-
-&emsp; [**• &hairsp; NLP Datasets**](https://github.com/moon23k/NLP_Datasets) &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; Tokenizations**](https://github.com/moon23k/Tokenizations) &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; Data Augmentation**](https://github.com/moon23k/Data_Augmentation)
 
 <br> 
