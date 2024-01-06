@@ -15,8 +15,8 @@ A series of projects, concentrating on model architecture, are presented below t
        [**• &hairsp; RNN Seq2Seq with Attention**](https://github.com/moon23k/RNN_Seq2Seq_Attention) &emsp; &emsp; &emsp; &emsp; &emsp; 
        [**• &hairsp; Transformer**](https://github.com/moon23k/Transformer) <br><br> 
 &emsp; [**• &hairsp; Transformer Variants**](https://github.com/moon23k/Transformer_Variants) &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; Encoder Decoder Balance**](https://github.com/moon23k/Balance) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; PLM Fusion**](https://github.com/moon23k/PLM_Fusion)
+       [**• &hairsp; Transformer Balance**](https://github.com/moon23k/Transformer_Balance) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+       [**• &hairsp; Transformer Fusion**](https://github.com/moon23k/Transformer_Fusion)
        
 <br><br> 
 
@@ -28,11 +28,11 @@ To overcome these constraints and enhance training effectiveness, several traini
 Among these, **`Auxiliary Training`** and **`Scheduled Sampling`** aim to make the most of GPU parallel processing while facilitating complementary learning. 
 On the other hand, **`Generative Training`** and **`SeqGAN Training`** may have lower training efficiency but serve as strategies to extract maximum performance in extremely data-restricted environments.
 
-&emsp; [**• &hairsp; Auxiliary Training**](https://github.com/moon23k/Aux_Training) &emsp; &emsp; &ensp; 
-       [**• &hairsp; Scheduled Sampling**](https://github.com/moon23k/Scheduled_Sampling) &emsp; &emsp; &ensp; 
-       [**• &hairsp; Pre Training**](https://github.com/moon23k/Pre_Training) &emsp; &emsp; &ensp; 
-&emsp; [**• &hairsp; Generative Training**](https://github.com/moon23k/GEN_Training) &emsp; &emsp; &ensp; 
-       [**• &hairsp; SeqGAN**](https://github.com/moon23k/SeqGAN)
+&emsp; [**• &hairsp; Auxiliary Training**](https://github.com/moon23k/Aux_Train) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+       [**• &hairsp; Scheduled Sampling**](https://github.com/moon23k/Scheduled_Sampling) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+       [**• &hairsp; Customized PreTraining**](https://github.com/moon23k/CPT_Train) <br><br> 
+&emsp; [**• &hairsp; Generative Training**](https://github.com/moon23k/GEN_Train) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &hairsp; 
+       [**• &hairsp; SeqGAN**](https://github.com/moon23k/GAN_Train)
 
 <br><br> 
 
@@ -63,9 +63,8 @@ To address this issue, the following project introduces an efficient approach th
 ## 🗣️ Dialogue Generation
 > &nbsp; Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below are a set of experiments to generate more natural responses like humans do.
 
-&emsp; [**• &hairsp; Characteristic Dialogue**](https://github.com/moon23k/Dialog_Char) &emsp; &emsp; &emsp; 
-       [**• &hairsp; Utilize SimEnt**](https://github.com/moon23k/Dialog_SimEnt) &emsp; &emsp; &emsp; 
-       [**• &hairsp; Multi-Turn Dialgue**](https://github.com/moon23k/Dialog_MultiTurn) &emsp; &emsp; &emsp; 
+&emsp; [**• &hairsp; Characteristic Dialogue**](https://github.com/moon23k/Dialog_Char) &emsp; &emsp; &emsp; &emsp; &emsp; 
+       [**• &hairsp; Utilize SimEnt**](https://github.com/moon23k/Dialog_SimEnt) &emsp; &emsp; &emsp; &emsp; &emsp; 
        [**• &hairsp; Dialgue Generation Blend**](https://github.com/moon23k/Dialog_Blend)
 
 <br><br> 
