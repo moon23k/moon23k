@@ -23,11 +23,11 @@ Below, you'll find a collection of projects focused on exploring and establishin
 ## 🏃‍♂️ Training Strategy
 > &nbsp; Alongside model architecture, another crucial factor influencing the performance of deep learning models is the **training strategy**. Below, you'll find five research projects aimed at enhancing performance to bring out the best in model capabilities.
 
-&emsp; [**• &hairsp; Auxiliary Training**](https://github.com/moon23k/Aux_Train) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+&emsp; [**• &hairsp; Auxiliary Training**](https://github.com/moon23k/Aux_Training) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
        [**• &hairsp; Scheduled Sampling**](https://github.com/moon23k/Scheduled_Sampling) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; Customized PreTraining**](https://github.com/moon23k/CPT_Train) <br><br> 
-&emsp; [**• &hairsp; Generative Training**](https://github.com/moon23k/GEN_Train) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &hairsp; 
-       [**• &hairsp; SeqGAN**](https://github.com/moon23k/GAN_Train)
+       [**• &hairsp; Customized PreTraining**](https://github.com/moon23k/CPT_Training) <br><br> 
+&emsp; [**• &hairsp; Generative Training**](https://github.com/moon23k/GEN_Training) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &hairsp; 
+       [**• &hairsp; SeqGAN**](https://github.com/moon23k/GAN_Training)
 
 <br><br> 
 
@@ -59,7 +59,7 @@ Below, you'll find a collection of projects focused on exploring and establishin
 > &nbsp; Dialogue Generation is a task to generate a response to a previous utterance, just like humans do in a conversational situation. However, it is very difficult for the model to understand the flow of the conversation and return appropriate answers. Below are a set of experiments to generate more natural responses like humans do.
 
 &emsp; [**• &hairsp; Characteristic Dialogue**](https://github.com/moon23k/Dialog_Char) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**• &hairsp; Utilize SimEnt**](https://github.com/moon23k/Dialog_SimEnt) 
+       [**• &hairsp; Utilize SemEnt**](https://github.com/moon23k/Dialog_SemEnt) 
 
 <br><br> 
 
@@ -67,7 +67,7 @@ Below, you'll find a collection of projects focused on exploring and establishin
 ## 📝 Abstract Text Summarization
 > &nbsp; Summarization Task summarizes long text into short sentences through Neural Networks, and the task can be devided into Extractive and Abstractive methods. Extractive Summarization selects key sentences from original text to make summary, whereas Abstractive Summarization creates a new summary sentence through the model's decoder. The experiments below mainly deal with Abstractive summary tasks.
 
-&emsp; [**• Hierarchical Encoder**](https://github.com/moon23k/Summ_HierEnc) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**• Sparse Attention**](https://github.com/moon23k/Summ_Sparse) 
+&emsp; [**• Hierarchical Encoder**](https://github.com/moon23k/Sum_Hierarchical) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+       [**• Sparse Attention**](https://github.com/moon23k/Sum_Sparse) 
 
 <br> 
