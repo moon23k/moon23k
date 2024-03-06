@@ -24,12 +24,9 @@ Below, you'll find a collection of projects focused on exploring and establishin
 ## 🏃‍♂️&hairsp; Training Strategy
 > &nbsp; Alongside model architecture, another crucial factor influencing the performance of deep learning models is the **training strategy**. Below, you'll find five research projects aimed at enhancing performance to bring out the best in model capabilities.
 
-&emsp; [**•&hairsp; Auxiliary Training**](https://github.com/moon23k/Aux_Training) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**•&hairsp; Scheduled Sampling**](https://github.com/moon23k/Scheduled_Sampling) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**•&hairsp; Customized PreTraining**](https://github.com/moon23k/CPT_Training) <br> 
-       
-&emsp; [**•&hairsp; Generative Training**](https://github.com/moon23k/GEN_Training) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &hairsp; 
-       [**•&hairsp; SeqGAN Training**](https://github.com/moon23k/GAN_Training)
+&emsp; [**•&hairsp; SeqGAN Training**](https://github.com/moon23k/GAN_Training) &emsp; &emsp; &emsp; 
+       [**•&hairsp; Customized PreTraining**](https://github.com/moon23k/CPT_Training) &emsp; &emsp; &emsp; 
+       [**•&hairsp; Exposure-bias Allivation Strategy Exploration**](https://github.com/moon23k/EASE)
 
 <br><br> 
 
@@ -37,8 +34,8 @@ Below, you'll find a collection of projects focused on exploring and establishin
 ## ⏰&hairsp; Efficiency 
 > &nbsp; Large-scale models with numerous parameters are known to yield improved performance. However, deploying such extensive models in typical computing environments can be limiting. To tackle this challenge, the following project introduces an efficient approach that ensures a certain level of performance while alleviating computational demands.
 
-&emsp; [**•&hairsp; Efficient Training**](https://github.com/moon23k/Efficient_Training) &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**•&hairsp; Efficient PreTrained Language Models**](https://github.com/moon23k/Efficient_PLMs) &emsp; &emsp; &emsp; &emsp; &emsp; 
+&emsp; [**•&hairsp; Efficient Training**](https://github.com/moon23k/Efficient_Training) &emsp; &emsp; &emsp; &emsp; 
+       [**•&hairsp; Efficient PreTrained Language Models**](https://github.com/moon23k/Efficient_PLMs) &emsp; &emsp; &emsp; &emsp; 
        [**•&hairsp; Param Efficient Fine-Tuning**](https://github.com/moon23k/PEFT)
 
 <br><br> 
@@ -60,6 +57,7 @@ Below, you'll find a collection of projects focused on exploring and establishin
 ## 💾&hairsp; Dataset 
 > &nbsp; Machine translation is the task of converting Text from Source Language into Target Language using a computer processing. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
 
-&emsp; [**•&hairsp; Back Translation**](https://github.com/moon23k/BackTranslation) &emsp; &emsp; &emsp; 
-       [**•&hairsp; NLP Datasets**](https://github.com/moon23k/Sum_Hierarchical) &emsp; &emsp; &emsp; 
+&emsp; [**•&hairsp; NLP Datasets**](https://github.com/moon23k/NLP_Datasets) &emsp; &emsp; &emsp; &emsp; 
+       [**•&hairsp; Tokenizers**](https://github.com/moon23k/Tokenizers) &emsp; &emsp; &emsp; &emsp; 
+       [**•&hairsp; Back Translation**](https://github.com/moon23k/BackTranslation) 
 <br> 
