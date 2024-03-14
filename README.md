@@ -10,35 +10,27 @@
 > &nbsp; The model architecture plays a pivotal role in machine learning engineering, as it can greatly influence performance.
 Below, you'll find a collection of projects focused on exploring and establishing standards for appropriate model structures in three NLG tasks: Translation, Dialogue Generation, and Summarization.
 
-&emsp; [**•&hairsp; RNN Seq2Seq**](https://github.com/moon23k/RNN_Seq2Seq) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; &nbsp; 
+&emsp; [**•&hairsp; RNN Seq2Seq**](https://github.com/moon23k/RNN_Seq2Seq) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &emsp; 
        [**•&hairsp; RNN Seq2Seq with Attention**](https://github.com/moon23k/RNN_Seq2Seq_Attention) &emsp; &emsp; &emsp; &emsp; &emsp; 
        [**•&hairsp; Transformer**](https://github.com/moon23k/Transformer) <br> 
        
-&emsp; [**•&hairsp; Transformer Variants**](https://github.com/moon23k/Transformer_Variants) &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**•&hairsp; Transformer Balance**](https://github.com/moon23k/Transformer_Balance) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+&emsp; [**•&hairsp; Transformer Balance**](https://github.com/moon23k/Transformer_Balance) &emsp; &emsp; &emsp; &emsp; &emsp; 
+       [**•&hairsp; Transformer Variants**](https://github.com/moon23k/Transformer_Variants) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &hairsp; 
        [**•&hairsp; Transformer Fusion**](https://github.com/moon23k/Transformer_Fusion)
        
 <br><br> 
 
 
 ## 🏃‍♂️&hairsp; Training Strategy
-> &nbsp; Alongside model architecture, another crucial factor influencing the performance of deep learning models is the **training strategy**. Below, you'll find five research projects aimed at enhancing performance to bring out the best in model capabilities.
+> &nbsp; Alongside model architecture, another crucial factor influencing the performance of deep learning models is the **training strategy**. In order to explore more advanced training methodologies, various approaches such as pretraining, finetuning, GANs, etc., are being applied and developed, alongside diverse research endeavors including deep studies aimed at enhancing efficiency. 
 
-&emsp; [**•&hairsp; SeqGAN Training**](https://github.com/moon23k/GAN_Training) &emsp; &emsp; &emsp; 
-       [**•&hairsp; Customized PreTraining**](https://github.com/moon23k/CPT_Training) &emsp; &emsp; &emsp; 
-       [**•&hairsp; Exposure-bias Allivation Strategy Exploration**](https://github.com/moon23k/EASE)
-
-<br><br> 
-
-
-## ⏰&hairsp; Efficiency 
-> &nbsp; Large-scale models with numerous parameters are known to yield improved performance. However, deploying such extensive models in typical computing environments can be limiting. To tackle this challenge, the following project introduces an efficient approach that ensures a certain level of performance while alleviating computational demands.
-
-&emsp; [**•&hairsp; Efficient Training**](https://github.com/moon23k/Efficient_Training) &emsp; &emsp; &emsp; &emsp; 
-       [**•&hairsp; Efficient PreTrained Language Models**](https://github.com/moon23k/Efficient_PLMs) &emsp; &emsp; &emsp; &emsp; 
-       [**•&hairsp; Param Efficient Fine-Tuning**](https://github.com/moon23k/PEFT)
+&emsp; [**•&hairsp; Generation&hairsp; Improveing&hairsp; Fine-Tuning**](https://github.com/moon23k/GIFT) &emsp; &emsp; &emsp; 
+       [**•&hairsp; SlowGAN**](https://github.com/moon23k/SlowGAN) &emsp; &emsp; &emsp; 
+       [**•&hairsp; Customized&hairsp; Pretraining**](https://github.com/moon23k/Customized_Pretraining) &emsp; &emsp; &emsp; 
+       [**•&hairsp; Efficient&hairsp; Training**](https://github.com/moon23k/Efficient_Training)
 
 <br><br> 
+
 
 ## 🎯&hairsp; Task Specific 
 > &nbsp; Machine translation is the task of converting Text from Source Language into Target Language using a computer processing. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
@@ -49,7 +41,7 @@ Below, you'll find a collection of projects focused on exploring and establishin
        
 &emsp; [**•&hairsp; Diverse Dialogue Generation**](https://github.com/moon23k/Dialog_SemEnt) &emsp; &emsp; &emsp; 
        [**•&hairsp; Hierarchical Summarization**](https://github.com/moon23k/Sum_Hierarchical) &emsp; &emsp; &emsp; 
-       [**•&hairsp; Hourglass Summarization**](https://github.com/moon23k/Sum_Sparse) 
+       [**•&hairsp; Sparse Attention Summarization**](https://github.com/moon23k/Sum_Sparse) 
 
 <br><br> 
 
