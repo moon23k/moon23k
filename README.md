@@ -6,7 +6,7 @@
 <br><br> 
 
 
-## 🤖&hairsp; Architecture 
+## 🤖&hairsp; Model Architecture 
 > &nbsp; The model architecture plays a pivotal role in machine learning engineering, as it can greatly influence performance.
 Below, you'll find a collection of projects focused on exploring and establishing standards for appropriate model structures in three NLG tasks: Translation, Dialogue Generation, and Summarization.
 
@@ -24,24 +24,21 @@ Below, you'll find a collection of projects focused on exploring and establishin
 ## 🏃‍♂️&hairsp; Training Strategy
 > &nbsp; Alongside model architecture, another crucial factor influencing the performance of deep learning models is the **training strategy**. In order to explore more advanced training methodologies, various approaches such as pretraining, finetuning, GANs, etc., are being applied and developed, alongside diverse research endeavors including deep studies aimed at enhancing efficiency. 
 
-&emsp; [**•&hairsp; Generation&hairsp; Improveing&hairsp; Fine-Tuning**](https://github.com/moon23k/GIFT) &emsp; &emsp; &emsp; 
-       [**•&hairsp; SlowGAN**](https://github.com/moon23k/SlowGAN) &emsp; &emsp; &emsp; 
-       [**•&hairsp; Customized&hairsp; Pretraining**](https://github.com/moon23k/Customized_Pretraining) &emsp; &emsp; &emsp; 
-       [**•&hairsp; Efficient&hairsp; Training**](https://github.com/moon23k/Efficient_Training)
+&emsp; [**•&hairsp; Customized&hairsp; Pretraining**](https://github.com/moon23k/Customized_Pretraining) &emsp; &emsp; 
+       [**•&hairsp; Generation&hairsp; Improveing&hairsp; Fine-Tuning**](https://github.com/moon23k/GIFT) &emsp; &emsp; 
+       [**•&hairsp; IntelliGEN**](https://github.com/moon23k/IntelliGEN) &emsp; &emsp; 
+       [**•&hairsp; LLM&hairsp; Efficient&hairsp; Fine Tuning**](https://github.com/moon23k/Efficient_Training)
 
 <br><br> 
 
 
-## 🎯&hairsp; Task Specific 
+## 🎯&hairsp; Problem Solving 
 > &nbsp; Machine translation is the task of converting Text from Source Language into Target Language using a computer processing. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
 
-&emsp; [**•&hairsp; Multi-Lingual Translation**](https://github.com/moon23k/NMT_MultiLingual) &emsp; &emsp; &emsp; &ensp; &nbsp; &thinsp; 
-       [**•&hairsp; Code Translation**](https://github.com/moon23k/NMT_Code) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**•&hairsp; Characteristic Dialogue Generation**](https://github.com/moon23k/Dialog_Char) <br>  
+&emsp; [**•&hairsp; Context-Aware Translation Framework**](https://github.com/moon23k/Context_Framework) &emsp; &emsp; 
+       [**•&hairsp; Characterstic Conv Framework**](https://github.com/moon23k/Character_Framework) &emsp; &emsp; 
+       [**•&hairsp; Trustworthy Conv Framework**](https://github.com/moon23k/Trust_Framework) <br>  
        
-&emsp; [**•&hairsp; Diverse Dialogue Generation**](https://github.com/moon23k/Dialog_SemEnt) &emsp; &emsp; &emsp; 
-       [**•&hairsp; Hierarchical Summarization**](https://github.com/moon23k/Sum_Hierarchical) &emsp; &emsp; &emsp; 
-       [**•&hairsp; Sparse Attention Summarization**](https://github.com/moon23k/Sum_Sparse) 
 
 <br><br> 
 
@@ -51,5 +48,6 @@ Below, you'll find a collection of projects focused on exploring and establishin
 
 &emsp; [**•&hairsp; NLP Datasets**](https://github.com/moon23k/NLP_Datasets) &emsp; &emsp; &emsp; &emsp; 
        [**•&hairsp; Tokenizers**](https://github.com/moon23k/Tokenizers) &emsp; &emsp; &emsp; &emsp; 
-       [**•&hairsp; Back Translation**](https://github.com/moon23k/BackTranslation) 
+       [**•&hairsp; Back Translation**](https://github.com/moon23k/BackTranslation) &emsp; &emsp; &emsp; &emsp;
+       [**•&hairsp; SemEnt**](https://github.com/moon23k/SemEnt)
 <br> 
