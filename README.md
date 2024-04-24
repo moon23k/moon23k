@@ -24,10 +24,9 @@ Below, you'll find a collection of projects focused on exploring and establishin
 ## 🏃‍♂️&hairsp; Training&hairsp;  Strategy
 > &nbsp; Alongside model architecture, another crucial factor influencing the performance of deep learning models is the **training strategy**. In order to explore more advanced training methodologies, various approaches such as pretraining, finetuning, GANs, etc., are being applied and developed, alongside diverse research endeavors including deep studies aimed at enhancing efficiency. 
 
-&emsp; [**•&hairsp; Customized&hairsp; Pretraining**](https://github.com/moon23k/Customized_Pretraining) &emsp; &emsp; 
-       [**•&hairsp; Generation&hairsp; Improveing&hairsp; Fine-Tuning**](https://github.com/moon23k/GIFT) &emsp; &emsp; 
-       [**•&hairsp; IntelliGEN**](https://github.com/moon23k/IntelliGEN) &emsp; &emsp; 
-       [**•&hairsp; LLM&hairsp; Efficient&hairsp; Fine Tuning**](https://github.com/moon23k/Efficient_Training)
+&emsp; [**•&hairsp; Customized&hairsp; Pretraining**](https://github.com/moon23k/Customized_Pretraining) &emsp; &emsp; &emsp; 
+       [**•&hairsp; Generation&hairsp; Improveing&hairsp; Fine-Tuning**](https://github.com/moon23k/GIFT) &emsp; &emsp; &emsp; 
+       [**•&hairsp; IntelliGEN**](https://github.com/moon23k/IntelliGEN) 
 
 <br><br> 
 
@@ -35,8 +34,8 @@ Below, you'll find a collection of projects focused on exploring and establishin
 ## 🎯&hairsp; Task Specific&hairsp;  Experiment
 > &nbsp; Machine translation is the task of converting Text from Source Language into Target Language using a computer processing. The hegemony of machine translation was Rule-Based at the earliest, followed by SMT, and now NMT has been established. NMT aims to derive more accurate and natural translation results using Neural Networks. Below are experiments of various Neural Network Architectures for this purpose.
 
-&emsp; [**•&hairsp; Multi-modal Translation**](https://github.com/moon23k/MultiModal_Translation) &emsp; &emsp; &emsp; 
-       [**•&hairsp; Multi-turn Dialogue Generation**](https://github.com/moon23k/MultiTurn_Dialogue) &emsp; &emsp; &emsp; 
+&emsp; [**•&hairsp; Multi-Lingual Translation**](https://github.com/moon23k/MultiModal_Translation) &emsp; &emsp; &emsp; 
+       [**•&hairsp; Multi-Turn Dialogue Generation**](https://github.com/moon23k/MultiTurn_Dialogue) &emsp; &emsp; &emsp; 
        [**•&hairsp; Efficient Text Summarization**](https://github.com/moon23k/Efficient_Summarization) <br>  
        
 <br><br> 
