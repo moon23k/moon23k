@@ -9,13 +9,9 @@
 ## 🤖&hairsp; Model&hairsp;  Architecture 
 > &nbsp; The model architecture plays a pivotal role in machine learning engineering, as it can greatly influence performance.
 Below, you'll find a collection of projects focused on exploring and establishing standards for appropriate model structures in three NLG tasks: Translation, Dialogue Generation, and Summarization.
-
-&emsp; [**•&hairsp; RNN Seq2Seq**](https://github.com/moon23k/RNN_Seq2Seq) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &emsp; 
-       [**•&hairsp; RNN Seq2Seq with Attention**](https://github.com/moon23k/RNN_Seq2Seq_Attention) &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**•&hairsp; Transformer**](https://github.com/moon23k/Transformer) <br> 
        
-&emsp; [**•&hairsp; Transformer Balance**](https://github.com/moon23k/Transformer_Balance) &emsp; &emsp; &emsp; &emsp; &emsp; 
-       [**•&hairsp; Transformer Variants**](https://github.com/moon23k/Transformer_Variants) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &hairsp; 
+&emsp; [**•&hairsp; Transformer Balance**](https://github.com/moon23k/Transformer_Balance) &emsp; &emsp; &emsp; 
+       [**•&hairsp; Transformer Variants**](https://github.com/moon23k/Transformer_Variants) &emsp; &emsp; &emsp; 
        [**•&hairsp; Transformer Fusion**](https://github.com/moon23k/Transformer_Fusion)
        
 <br><br> 
@@ -59,4 +55,5 @@ Below, you'll find a collection of projects focused on exploring and establishin
        [**•&hairsp; Tokenizers**](https://github.com/moon23k/Tokenizers) &emsp; &emsp; &emsp; &emsp; 
        [**•&hairsp; Back Translation**](https://github.com/moon23k/BackTranslation) &emsp; &emsp; &emsp; &emsp;
        [**•&hairsp; SemEnt**](https://github.com/moon23k/SemEnt)
+
 <br> 
